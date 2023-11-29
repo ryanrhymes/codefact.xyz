@@ -1,7 +1,11 @@
 .PHONY: build
 build:
-	jekyll build
-	
+	JEKYLL_ENV=production jekyll build
+
+.PHONY: serve
+serve: build
+	jekyll serve
+
 .PHONY: clean
 clean:
 	rm -rf _site .jekyll-cache

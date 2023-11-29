@@ -33,6 +33,7 @@ github_username:  ryanrhymes
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 # Configure the codefact.xyz
 permalink: /:categories/:year/info:output_ext
