@@ -35,7 +35,7 @@ plugins:
   - jekyll-feed
 
 # Configure the codefact.xyz
-permalink: /:categories/:year/:title:output_ext
+permalink: /:categories/:year/info:output_ext
 
 # Exclude from processing.
 # The following items will not be processed, by default.
