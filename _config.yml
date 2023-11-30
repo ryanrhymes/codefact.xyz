@@ -29,16 +29,14 @@ title_separator          : "-"
 
 # Site Author
 author:
-  name             : "Codefact"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "AI, Analytics, Business"
-  location         : "Finland"
-  email            : info@codefact.xyz
-
-description: >- # this means to ignore newlines until "baseurl:"
-  Data-driven business analytics
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+  name                   : "Codefact"
+  avatar                 : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio                    : "AI, Analytics, Business"
+  location               : "Finland"
+  email                  : info@codefact.xyz
+  description            : "Data-driven business analytics"
+  baseurl                : "" # the subpath of your site, e.g. /blog
+  url                    : "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Analytics
 analytics:
