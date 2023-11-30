@@ -85,11 +85,14 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:year/info:output_ext
-paginate: 20 # amount of posts to show
-paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
+permalink                : /:categories/:year/info:output_ext
+pagination:
+  enabled                : true
+  debug                  : false
+  collection             : 'posts'
+  per_page               : 20
+  permalink              : '../page:num/'
+  title                  : ':title - page :num of :max'
 
 # Plugins (previously gems:)
 plugins:
@@ -163,4 +166,4 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
