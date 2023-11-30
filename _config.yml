@@ -27,6 +27,21 @@ locale                   : "en-US"
 title                    : "Codefact Analytics"
 title_separator          : "-"
 
+atom_feed:
+  path                   : # blank (default) uses feed.xml
+
+search                   : true # true, false (default)
+search_full_content      : true # true, false (default)
+search_provider          : #algolia # lunr (default), algolia
+algolia:
+  application_id         : QB6HVGBSBA # YOUR_APPLICATION_ID
+  index_name             : minimal_mistakes # YOUR_INDEX_NAME
+  search_only_api_key    : 9d5014e5bbc77372547bce778dfa5663 # YOUR_SEARCH_ONLY_API_KEY
+  powered_by             : true # true (default), false
+  files_to_exclude:
+
+breadcrumbs              : false
+words_per_minute         : 200
 
 # Site Author
 author:
