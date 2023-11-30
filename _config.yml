@@ -18,25 +18,51 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Codefact Analytics
+theme                    : minimal-mistakes-jekyll
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+
+# Site Settings
+locale                   : "en-US"
+title                    : "Codefact Analytics"
+title_separator          : "-"
+
+# Site Author
 author:
-  name: Codefact Oy
-  email: info@codefact.xyz
+  name             : "Codefact"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "AI, Analytics, Business"
+  location         : "Finland"
+  email            : info@codefact.xyz
+
 description: >- # this means to ignore newlines until "baseurl:"
   Data-driven business analytics
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-google_analytics: G-N7ZBG780S5
+# Analytics
+analytics:
+  provider               : "google-gtag"
+  google:
+    tracking_id          : G-N7ZBG780S5
+    anonymize_ip         : false
 
-# Build settings
-theme: minima
+# Plugins (previously gems:)
 plugins:
-  - jekyll-feed
+  - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
 
 # Configure the codefact.xyz
 permalink: /:categories/:year/info:output_ext
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 # Exclude from processing.
 # The following items will not be processed, by default.
