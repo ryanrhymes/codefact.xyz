@@ -85,7 +85,7 @@ sass:
 
 
 # Outputting
-permalink                : /:categories/:year/info:output_ext
+permalink                : /:categories/:year/:month/:title:output_ext
 pagination:
   enabled                : true
   debug                  : false
