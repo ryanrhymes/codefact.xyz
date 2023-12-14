@@ -26,7 +26,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Codefact Analytics"
 title_separator          : "-"
-subtitle                 : "Data & Algorithms"
+subtitle                 : "when business meets data"
 
 atom_feed:
   path                   : # blank (default) uses feed.xml
