@@ -4,5 +4,7 @@ main:
     url: /about/
   - title: "Companies"
     url: /company/
+  - title: "Blog"
+    url: /blog/
   - title: "Terms &amp; Privacy Policy"
     url: /terms/
