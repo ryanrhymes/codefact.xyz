@@ -10,6 +10,8 @@ categories: blog fi
 
 Generatiivinen tekoäly on edennyt pitkälle alkuajoistaan sääntöpohjaisien ja asiantuntijajärjestelmien 1960-luvulta lähtien. Teknologioiden, kuten variaatioinferenssin, huomion mekanismien ja transformaattoreiden, edistyminen mahdollistaa nyt generatiivisen tekoälyn tuottamaan monipuolisia ja realistisia tuotoksia, jotka olivat aiemmin saavuttamattomia. Generatiivisen tekoälyn järjestelmien käytön avulla teollisuuden aloilla, kuten terveydenhuollossa, rahoituksessa, liikenteessä ja valmistuksessa, voidaan nyt toimia tehokkaammin ja tuottavammin. 
 
+![Transformer Architecture](https://i.stack.imgur.com/eAKQu.png "Transformer Architecture")
+
 Kuitenkin kuten mikä tahansa uusi teknologia, generatiivisella tekoälyllä on eettisiä huolia ja riskejä, mukaan lukien mahdollinen syrjintä ja vinouma, yksityisyysasiat ja läpinäkyvyyden puute. Tällaisiin huoliin voidaan vastata sisällyttämällä monimuotoisuus ja vähentämällä vääristymiä käytetyissä koulutusjoukoissa. On myös tarpeellista laatia eettiset ohjeet generatiivisen tekoälyn käytölle sen varmistamiseksi, että käyttö on vastuullista ja eettistä, erityisesti haitallisen tekoälyllä tuotetun sisällön leviämisen ehkäisemiseksi.
 
 Generatiivinen tekoälyllä on valtava potentiaali mullistaa eri teollisuudenaloja, kuten musiikin säveltämistä, missä se on mahdollistanut musiikin luomisen demokratisoinnin. Tämän odotuksen huolimatta on kuitenkin välttämätöntä laatia eettisiä ohjeita, jotka estävät taiteellisen luovuuden ja alkuperäisyyden arvon alentamisen ja suojelevat muusikoiden immateriaalioikeuksia. Ihmismuusikoiden ja tekoälyjärjestelmien yhteistyö voi laajentaa musiikin tuotannon rajoja samalla kun säilytetään kulttuurinen ja taiteellinen arvo.

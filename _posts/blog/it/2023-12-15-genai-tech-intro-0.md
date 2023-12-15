@@ -10,6 +10,8 @@ categories: blog it
 
 L'IA generativa ha fatto molta strada dai suoi primi giorni di sistemi basati su regole ed esperti negli anni '60. Grazie ai progressi delle tecnologie come l'inferenza variazionale, i meccanismi di attenzione e i trasformatori, l'IA generativa può ora produrre output variegati e realistici che in precedenza erano irraggiungibili. Con l'uso di sistemi di IA generativa, settori come la sanità, la finanza, i trasporti e la manifattura possono ora operare in modo più efficiente e produttivo.
 
+![Transformer Architecture](https://i.stack.imgur.com/eAKQu.png "Transformer Architecture")
+
 Tuttavia, come ogni nuova tecnologia, l'IA generativa comporta preoccupazioni etiche e rischi, tra cui la discriminazione e il pregiudizio potenziali, le preoccupazioni sulla privacy e la mancanza di trasparenza. Misure come l'incorporazione di diversità e la riduzione dei pregiudizi nei set di dati utilizzati per la formazione possono affrontare tali preoccupazioni. È anche necessario stabilire linee guida etiche per l'uso dell'IA generativa al fine di garantire un uso responsabile ed etico, in particolare nella prevenzione della diffusione di contenuti dannosi generati dall'IA.
 
 L'IA generativa ha un enorme potenziale per rivoluzionare vari settori, tra cui la composizione musicale, dove ha consentito la democratizzazione della creazione musicale. Nonostante questa prospettiva, le linee guida etiche devono essere stabilite per impedire la svalutazione della creatività e dell'originalità artistica e proteggere i diritti di proprietà intellettuale dei musicisti. La collaborazione tra musicisti umani e sistemi di IA può ampliare i confini della produzione musicale preservando valore culturale ed artistico.
