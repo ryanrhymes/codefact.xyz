@@ -17,4 +17,4 @@ Generative AI has immense potential to revolutionize various industries, includi
 Overall, while generative AI has come a long way, there is still more to be done in terms of realizing its full potential while ensuring ethical and responsible use. Continued collaboration, investment, and prioritization of ethical considerations will be crucial in this regard. It is an exciting time for the field of generative AI, and with the right approach, it can transform various industries and benefit individuals and society as a whole.
 
 **Read in** [English](/blog/en/2023/12/genai-tech-intro-0.html), [中文](/blog/cn/2023/12/genai-tech-intro-0.html), [日本語](/blog/jp/2023/12/genai-tech-intro-0.html), [Français](/blog/fr/2023/12/genai-tech-intro-0.html), [Deutsch](/blog/de/2023/12/genai-tech-intro-0.html), [Italiano](/blog/it/2023/12/genai-tech-intro-0.html), [Español](/blog/es/2023/12/genai-tech-intro-0.html), [Suomi](/blog/fi/2023/12/genai-tech-intro-0.html) 
-{: .notice}
+{: .notice--info}

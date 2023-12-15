@@ -17,4 +17,4 @@ categories: blog cn
 总的来说，虽然生成式人工智能已经取得了长足的进步，但在确保伦理和负责使用方面仍有更多的工作要做。在这方面，持续的合作、投资和对伦理考虑的优先考虑将是至关重要的。这是生成式人工智能领域的一个令人兴奋的时代，在正确的方法下，它可以改变各种行业，造福个人和整个社会。
 
 **Read in** [English](/blog/en/2023/12/genai-tech-intro-0.html), [中文](/blog/cn/2023/12/genai-tech-intro-0.html), [日本語](/blog/jp/2023/12/genai-tech-intro-0.html), [Français](/blog/fr/2023/12/genai-tech-intro-0.html), [Deutsch](/blog/de/2023/12/genai-tech-intro-0.html), [Italiano](/blog/it/2023/12/genai-tech-intro-0.html), [Español](/blog/es/2023/12/genai-tech-intro-0.html), [Suomi](/blog/fi/2023/12/genai-tech-intro-0.html) 
-{: .notice}
+{: .notice--info}

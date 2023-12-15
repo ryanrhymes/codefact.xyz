@@ -21,4 +21,4 @@ categories: blog cn
 总之，优先考虑可持续金融实践的创业公司可以在利益和长期成功方面产生积极影响，同时造福地球和社会。通过采用可持续实践并与环境和社会责任实践保持一致，创业公司可以区别于竞争对手、吸引注重社会责任的消费者和投资者、提高声誉、对抗潜在风险，并在市场上实现长期的增长和竞争力。可持续性带来的潜在益处超过了实施的短期成本。可持续金融实践承诺创业公司在长期内获得收益，金融机构在此方面可以扮演关键角色。
 
 **Read in** [English](/blog/en/2023/12/sustainable-finance-0.html), [中文](/blog/cn/2023/12/sustainable-finance-0.html), [日本語](/blog/jp/2023/12/sustainable-finance-0.html), [Français](/blog/fr/2023/12/sustainable-finance-0.html), [Deutsch](/blog/de/2023/12/sustainable-finance-0.html), [Italiano](/blog/it/2023/12/sustainable-finance-0.html), [Español](/blog/es/2023/12/sustainable-finance-0.html), [Suomi](/blog/fi/2023/12/sustainable-finance-0.html) 
-{: .notice}
+{: .notice--info}

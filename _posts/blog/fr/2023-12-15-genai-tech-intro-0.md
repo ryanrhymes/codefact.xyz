@@ -17,4 +17,4 @@ L'IA générative a un immense potentiel pour révolutionner divers secteurs, y 
 Dans l'ensemble, bien que l'IA générative ait parcouru un long chemin, il reste encore beaucoup à faire pour réaliser son plein potentiel tout en garantissant une utilisation éthique et responsable. Une collaboration, un investissement et une priorisation continus des considérations éthiques seront cruciaux à cet égard. C'est un moment passionnant pour le domaine de l'IA générative, et avec la bonne approche, il peut transformer divers secteurs et profiter aux individus et à la société dans son ensemble.
 
 **Read in** [English](/blog/en/2023/12/genai-tech-intro-0.html), [中文](/blog/cn/2023/12/genai-tech-intro-0.html), [日本語](/blog/jp/2023/12/genai-tech-intro-0.html), [Français](/blog/fr/2023/12/genai-tech-intro-0.html), [Deutsch](/blog/de/2023/12/genai-tech-intro-0.html), [Italiano](/blog/it/2023/12/genai-tech-intro-0.html), [Español](/blog/es/2023/12/genai-tech-intro-0.html), [Suomi](/blog/fi/2023/12/genai-tech-intro-0.html) 
-{: .notice}
+{: .notice--info}

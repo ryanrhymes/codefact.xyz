@@ -17,4 +17,4 @@ Die generative KI hat ein enormes Potenzial, verschiedene Branchen zu revolution
 Insgesamt gibt es bei der generativen KI immer noch mehr zu tun, um ihr volles Potenzial zu entfalten, während ein ethischer und verantwortungsvoller Einsatz sichergestellt ist. Eine kontinuierliche Zusammenarbeit, Investition und Priorisierung ethischer Überlegungen wird hierbei entscheidend sein. Es ist eine aufregende Zeit für das Feld der generativen KI und mit dem richtigen Ansatz kann es verschiedene Branchen transformieren und sowohl Einzelpersonen als auch die Gesellschaft als Ganzes nutzen.
 
 **Read in** [English](/blog/en/2023/12/genai-tech-intro-0.html), [中文](/blog/cn/2023/12/genai-tech-intro-0.html), [日本語](/blog/jp/2023/12/genai-tech-intro-0.html), [Français](/blog/fr/2023/12/genai-tech-intro-0.html), [Deutsch](/blog/de/2023/12/genai-tech-intro-0.html), [Italiano](/blog/it/2023/12/genai-tech-intro-0.html), [Español](/blog/es/2023/12/genai-tech-intro-0.html), [Suomi](/blog/fi/2023/12/genai-tech-intro-0.html) 
-{: .notice}
+{: .notice--info}

@@ -17,4 +17,4 @@ Generatiivinen tekoälyllä on valtava potentiaali mullistaa eri teollisuudenalo
 Kaiken kaikkiaan vaikka generatiivinen tekoäly on edennyt pitkälle, on edelleen enemmän tehtävää sen täyden potentiaalin toteuttamiseksi samalla varmistamalla eettinen ja vastuullinen käyttö. Jatkuva yhteistyö, panostus ja eettisten näkökohtien priorisointi ovat tässä suhteessa ratkaisevia. Se on innostava aika generatiivisen tekoälyn alalle, ja oikealla lähestymistavalla se voi muuttaa eri teollisuudenaloja ja hyödyttää yksilöitä ja yhteiskuntaa kokonaisuutena.
 
 **Read in** [English](/blog/en/2023/12/genai-tech-intro-0.html), [中文](/blog/cn/2023/12/genai-tech-intro-0.html), [日本語](/blog/jp/2023/12/genai-tech-intro-0.html), [Français](/blog/fr/2023/12/genai-tech-intro-0.html), [Deutsch](/blog/de/2023/12/genai-tech-intro-0.html), [Italiano](/blog/it/2023/12/genai-tech-intro-0.html), [Español](/blog/es/2023/12/genai-tech-intro-0.html), [Suomi](/blog/fi/2023/12/genai-tech-intro-0.html) 
-{: .notice}
+{: .notice--info}

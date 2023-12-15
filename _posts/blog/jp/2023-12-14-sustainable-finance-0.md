@@ -21,4 +21,4 @@ categories: blog jp
 以上から、持続可能な金融プラクティスを優先するスタートアップ企業は、財務パフォーマンスと長期的な成功にプラスの影響を与えると同時に、地球と社会に恩恵をもたらすことができます。持続可能なプラクティスを取り入れ、環境や社会に対する責任を果たすことで、競合他社と差別化し、社会的意識の高い消費者や投資家を引き寄せ、評判を向上させ、潜在的なリスクに対処することができ、市場で長期的な成長と競争力を実現することができます。持続可能な金融プラクティスは、短期的な費用を上回る潜在的な利益を約束します。金融機関はこのようなスタートアップ企業を支援するために重要な役割を果たすことができます。
 
 **Read in** [English](/blog/en/2023/12/sustainable-finance-0.html), [中文](/blog/cn/2023/12/sustainable-finance-0.html), [日本語](/blog/jp/2023/12/sustainable-finance-0.html), [Français](/blog/fr/2023/12/sustainable-finance-0.html), [Deutsch](/blog/de/2023/12/sustainable-finance-0.html), [Italiano](/blog/it/2023/12/sustainable-finance-0.html), [Español](/blog/es/2023/12/sustainable-finance-0.html), [Suomi](/blog/fi/2023/12/sustainable-finance-0.html) 
-{: .notice}
+{: .notice--info}

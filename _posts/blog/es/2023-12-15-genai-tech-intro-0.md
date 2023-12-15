@@ -17,4 +17,4 @@ La inteligencia artificial generativa tiene un enorme potencial para revoluciona
 En general, aunque la inteligencia artificial generativa ha avanzado mucho, aún hay más por hacer en términos de realizar su máximo potencial al tiempo que se garantiza un uso ético y responsable. La colaboración continua, la inversión y la priorización de consideraciones éticas serán cruciales en este sentido. Es un momento emocionante para el campo de la inteligencia artificial generativa y, con el enfoque correcto, puede transformar varias industrias y beneficiar a individuos y la sociedad en su conjunto.
 
 **Read in** [English](/blog/en/2023/12/genai-tech-intro-0.html), [中文](/blog/cn/2023/12/genai-tech-intro-0.html), [日本語](/blog/jp/2023/12/genai-tech-intro-0.html), [Français](/blog/fr/2023/12/genai-tech-intro-0.html), [Deutsch](/blog/de/2023/12/genai-tech-intro-0.html), [Italiano](/blog/it/2023/12/genai-tech-intro-0.html), [Español](/blog/es/2023/12/genai-tech-intro-0.html), [Suomi](/blog/fi/2023/12/genai-tech-intro-0.html) 
-{: .notice}
+{: .notice--info}

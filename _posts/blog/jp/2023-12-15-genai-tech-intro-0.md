@@ -17,4 +17,4 @@ categories: blog jp
 全体的に、生成AIは長い歴史を持っていますが、その完全な可能性を実現するためには、倫理的かつ責任ある利用が必要です。継続的な協力、投資、倫理的考慮の優先順位がこの点において重要です。生成AIの分野において、正しいアプローチをすれば、様々な産業を変革し、個人や社会全体に利益をもたらすことができる、エキサイティングな時期です。
 
 **Read in** [English](/blog/en/2023/12/genai-tech-intro-0.html), [中文](/blog/cn/2023/12/genai-tech-intro-0.html), [日本語](/blog/jp/2023/12/genai-tech-intro-0.html), [Français](/blog/fr/2023/12/genai-tech-intro-0.html), [Deutsch](/blog/de/2023/12/genai-tech-intro-0.html), [Italiano](/blog/it/2023/12/genai-tech-intro-0.html), [Español](/blog/es/2023/12/genai-tech-intro-0.html), [Suomi](/blog/fi/2023/12/genai-tech-intro-0.html) 
-{: .notice}
+{: .notice--info}
