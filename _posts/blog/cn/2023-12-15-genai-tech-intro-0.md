@@ -10,7 +10,7 @@ categories: blog cn
 
 生成式人工智能自20世纪60年代的基于规则和专家系统的初期发展以来已经迈进了很长的一步。随着变分推断、注意机制和变形器技术等技术的进步，生成式人工智能现在可以产生以前难以实现的多样化和逼真的输出。通过使用生成式人工智能系统，像医疗保健、金融、交通运输和制造业等行业现在可以更加高效和有所产出。
 
-![Transformer Architecture](https://i.stack.imgur.com/eAKQu.png "Transformer Architecture")
+![GenAI history](https://miro.medium.com/v2/resize:fit:1400/1*4N5CPyYSVFzfEapqGM5gug.png "GenAI history")
 
 然而，像任何新技术一样，生成式人工智能也带来了伦理上的关注和风险，包括潜在的歧视和偏见、隐私问题以及缺乏透明度。通过将多样性和减少用于训练的数据集中的偏见结合起来，可以解决这些问题。还有必要制定生成式人工智能的伦理原则，以确保负责任和道德的使用，特别是在防止由人工智能生成的恶意内容传播方面。
 

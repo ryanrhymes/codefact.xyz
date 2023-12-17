@@ -10,7 +10,7 @@ categories: blog it
 
 L'IA generativa ha fatto molta strada dai suoi primi giorni di sistemi basati su regole ed esperti negli anni '60. Grazie ai progressi delle tecnologie come l'inferenza variazionale, i meccanismi di attenzione e i trasformatori, l'IA generativa può ora produrre output variegati e realistici che in precedenza erano irraggiungibili. Con l'uso di sistemi di IA generativa, settori come la sanità, la finanza, i trasporti e la manifattura possono ora operare in modo più efficiente e produttivo.
 
-![Transformer Architecture](https://i.stack.imgur.com/eAKQu.png "Transformer Architecture")
+![GenAI history](https://miro.medium.com/v2/resize:fit:1400/1*4N5CPyYSVFzfEapqGM5gug.png "GenAI history")
 
 Tuttavia, come ogni nuova tecnologia, l'IA generativa comporta preoccupazioni etiche e rischi, tra cui la discriminazione e il pregiudizio potenziali, le preoccupazioni sulla privacy e la mancanza di trasparenza. Misure come l'incorporazione di diversità e la riduzione dei pregiudizi nei set di dati utilizzati per la formazione possono affrontare tali preoccupazioni. È anche necessario stabilire linee guida etiche per l'uso dell'IA generativa al fine di garantire un uso responsabile ed etico, in particolare nella prevenzione della diffusione di contenuti dannosi generati dall'IA.
 

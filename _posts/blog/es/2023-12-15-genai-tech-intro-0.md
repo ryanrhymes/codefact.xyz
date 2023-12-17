@@ -10,7 +10,7 @@ categories: blog es
 
 La inteligencia artificial generativa ha avanzado mucho desde sus primeros días de sistemas basados en reglas y expertos en los años 60. Gracias a avances en tecnologías como la inferencia variacional, los mecanismos de atención y los transformadores, la inteligencia artificial generativa ahora puede producir resultados diversos y realistas que antes eran inalcanzables. Con el uso de sistemas de inteligencia artificial generativa, industrias como la salud, finanzas, transporte y manufactura pueden operar de manera más eficiente y productiva.
 
-![Transformer Architecture](https://i.stack.imgur.com/eAKQu.png "Transformer Architecture")
+![GenAI history](https://miro.medium.com/v2/resize:fit:1400/1*4N5CPyYSVFzfEapqGM5gug.png "GenAI history")
 
 Sin embargo, como cualquier nueva tecnología, la inteligencia artificial generativa viene con preocupaciones éticas y riesgos, incluyendo la discriminación y sesgos potenciales, preocupaciones de privacidad y falta de transparencia. Medidas como incorporar diversidad y reducir los sesgos dentro de los conjuntos de datos utilizados para entrenamiento pueden abordar estas preocupaciones. También es necesario establecer pautas éticas para el uso de la inteligencia artificial generativa a fin de garantizar un uso responsable y ético, especialmente en la prevención de la propagación de contenido malicioso generado por la IA.
 

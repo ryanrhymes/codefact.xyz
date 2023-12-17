@@ -10,7 +10,7 @@ categories: blog de
 
 Die generative KI hat seit ihren Anfängen in den 1960er Jahren mit regelbasierten und Expertensystemen enorme Fortschritte gemacht. Durch Fortschritte in Technologien wie variationaler Inferenz, Aufmerksamkeitsmechanismen und Transformern ist es der generativen KI nun möglich, diverse und realistische Ergebnisse zu produzieren, die zuvor unerreichbar waren. Mit dem Einsatz von generativen KI-Systemen können Branchen wie Gesundheitswesen, Finanzen, Transport und Fertigung nun effizienter und produktiver arbeiten.
 
-![Transformer Architecture](https://i.stack.imgur.com/eAKQu.png "Transformer Architecture")
+![GenAI history](https://miro.medium.com/v2/resize:fit:1400/1*4N5CPyYSVFzfEapqGM5gug.png "GenAI history")
 
 Wie bei jeder neuen Technologie bringt die generative KI jedoch ethische Bedenken und Risiken mit sich, einschließlich möglicher Diskriminierung und Vorurteile, Datenschutzbedenken und mangelnder Transparenz. Maßnahmen wie die Integration von Vielfalt und die Reduzierung von Vorurteilen innerhalb der für das Training verwendeten Datensätze können diese Bedenken angehen. Es ist auch notwendig, ethische Leitlinien für die Verwendung von generativer KI festzulegen, um einen verantwortungsvollen und ethischen Einsatz sicherzustellen, insbesondere bei der Verhinderung der Verbreitung von durch KI generierten bösartigen Inhalten.
 
