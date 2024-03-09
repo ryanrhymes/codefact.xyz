@@ -1,12 +1,10 @@
 ---
-title: "Accounting"
-date: 2018-11-18T12:33:46+10:00
-weight: 1
+title: "Analytics Roadmap"
+date: 2019-02-28T15:15:34+10:00
+weight: 3
 ---
 
-Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
-
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+Embrace AI-powered advanced analytics across key business areas with our customized roadmaps. We help you identify and prioritize critical use cases, develop investment strategies, manage risks, and provide enterprise architecture recommendations, ensuring successful strategic implementation and long-term sustainability.
 
 # Objectives
 

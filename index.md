@@ -1,13 +1,13 @@
 ---
-title: Codefact Analytics
+title: Codefact
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: Maximize the full potential of your data with our strategic consulting, advnaced analytics, and industry research services, tailored to unlock insights and drive transformative decisions.
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Codefact - A Data Analytics Company
+# Codefact Analytics
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Maximize the full potential of your data with our strategic consulting, advnaced analytics, and industry research services, tailored to unlock insights and drive transformative decisions.
