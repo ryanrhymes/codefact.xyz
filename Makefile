@@ -10,6 +10,10 @@ serve: build
 clean:
 	rm -rf _site .jekyll-cache
 
+.PHONY: develope
+develope:
+	bundle exec jekyll serve
+
 .PHONY: push
 push:
 	git commit -am "coding ..." && \

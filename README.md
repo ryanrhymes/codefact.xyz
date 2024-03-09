@@ -1,11 +1,23 @@
-# codefact.xyz.src
+# codefact.xyz
 codefact.xyz website source code
 
 
-## Instructions
+### Development
 
-Copy the file from databrick to local drive...
+To run the theme locally, navigate to the theme directory and run:
 
-```bash
-databricks fs cp dbfs:/user/liang.wang/output/company-info.zip /mnt/c/Users/lianwang/Downloads/
+```
+bundle install
+```
+
+To start the Jekyll local development server.
+
+```
+bundle exec jekyll serve
+```
+
+To build the theme.
+
+```
+bundle exec jekyll build
 ```
