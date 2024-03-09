@@ -10,4 +10,4 @@ show_call_box: true
 
 # Codefact Analytics
 
-Maximize the full potential of your data with our strategic consulting, advnaced analytics, and industry research services, tailored to unlock insights and drive transformative decisions.
+At Codefact, we specialize in a spectrum of data analytics services designed to empower your business through strategic insights and advanced technological capabilities. Our offerings span across three primary domains: Strategy Consulting, Advanced Analytics, and Industry Research.
