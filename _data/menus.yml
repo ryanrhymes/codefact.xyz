@@ -13,3 +13,6 @@ footer:
   - name: "Privacy"
     url: "/privacy/"
     weight: 1
+  - name: "Sitemap"
+    url: "/sitemap.xml"
+    weight: 2
