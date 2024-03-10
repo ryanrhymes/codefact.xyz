@@ -1,12 +1,12 @@
 ---
 title: Services
 layout: services
-description: Services
+description: Our offerings span three primary domains. We are committed to delivering exceptional service, deep expertise, and tangible results, driving businesses toward their next phase of growth and innovation.
 intro_image: "images/illustrations/reading.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Services that grow with your business
+# Tailored Services for Your Business
 
-Our offerings span across three primary domains: Strategy Consulting, Advanced Analytics, and Industry Research.
+Our offerings span three primary domains. We are committed to delivering exceptional service, deep expertise, and tangible results, driving businesses toward their next phase of growth and innovation.
