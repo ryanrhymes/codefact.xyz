@@ -21,19 +21,63 @@ bodyClass: "page-services"
 <div class="strip">
   <div class="container pt-6 pb-6 pb-md-10">
     <div class="row justify-content-start">
-      {% assign limit = site.home.limit_services | default: 3 %}
-      {% for service in site.services limit: limit %}
-      <div class="col-12 col-md-4 mb-1">
-        <div class="service service-summary">
-          <div class="service-content">
-            <h2 class="service-title">
-              <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
-            </h2>
-            <p>{{ service.excerpt | markdownify | strip_html | truncate: 200 }}</p>
+
+      <h1 style="padding-top: 4px; padding-bottom:8px; background-color: #ebebeb;">Strategy Consulting</h1>
+
+      {% for service in site.services %}
+        {% assign serviceIndex = forloop.index %}
+        {% if serviceIndex == 1 or serviceIndex == 2 or serviceIndex == 3 %}
+          <div class="col-12 col-md-4 mb-1">
+            <div class="service service-summary">
+              <div class="service-content">
+                <h2 class="service-title">
+                  <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
+                </h2>
+                <p>{{ service.excerpt | markdownify | strip_html | truncate: 200 }}</p>
+              </div>
+            </div>
           </div>
-        </div>
-      </div>
+        {% endif %}
       {% endfor %}
+
+      
+      <h1 style="padding-top: 4px; padding-bottom:8px; background-color: #ebebeb;">Advanced Analytics</h1>
+
+      {% for service in site.services %}
+        {% assign serviceIndex = forloop.index %}
+        {% if serviceIndex == 4 or serviceIndex == 5 or serviceIndex == 6 %}
+          <div class="col-12 col-md-4 mb-1">
+            <div class="service service-summary">
+              <div class="service-content">
+                <h2 class="service-title">
+                  <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
+                </h2>
+                <p>{{ service.excerpt | markdownify | strip_html | truncate: 200 }}</p>
+              </div>
+            </div>
+          </div>
+        {% endif %}
+      {% endfor %}
+
+
+      <h1 style="padding-top: 4px; padding-bottom:8px; background-color: #ebebeb;">Industry Research</h1>
+  
+      {% for service in site.services %}
+        {% assign serviceIndex = forloop.index %}
+        {% if serviceIndex == 7 or serviceIndex == 8 or serviceIndex == 9 %}
+          <div class="col-12 col-md-4 mb-1">
+            <div class="service service-summary">
+              <div class="service-content">
+                <h2 class="service-title">
+                  <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
+                </h2>
+                <p>{{ service.excerpt | markdownify | strip_html | truncate: 200 }}</p>
+              </div>
+            </div>
+          </div>
+        {% endif %}
+      {% endfor %}
+
     </div>
   </div>
 </div>
