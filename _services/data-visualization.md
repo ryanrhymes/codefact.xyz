@@ -36,9 +36,8 @@ Our approach includes the following key steps:
 
 The deliverables include the following items:
 
-- **Tailored Data Visualizations**: Custom-designed charts, graphs, and interactive dashboards that effectively communicate your data's story.
-- **User Guides and Documentation**: Detailed guides on how to use and maintain the visualizations, including any necessary technical documentation.
-- **Training Materials**: Resources and training sessions designed to empower your team to leverage the visualizations for maximum impact.
+- **Customized Visualizations**: Custom-designed charts, graphs, and interactive dashboards that effectively communicate your data's story.
+- **Project Report**: A detailed project report and guides on usage and maintenance of the visualizations, including any necessary technical documentation.
 
 ## Pricing
 

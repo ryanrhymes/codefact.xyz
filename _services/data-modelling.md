@@ -38,7 +38,7 @@ Our approach to Data Modelling involves the following key steps:
 
 The key deliverables of our Data Modelling service include:
 
-- **Data Models**: A set of developed and validated analytics models tailored to your specific business needs.
+- **Customized Data Models**: A set of developed and validated analytics models tailored to your specific business needs.
 - **Model Deployment Plan**: A comprehensive strategy for integrating and managing the models within your business operations.
 - **Project Report**: A detailed report outlining project specifications, model details, insights generated, and recommendations.
 
