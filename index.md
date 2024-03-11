@@ -8,6 +8,6 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Codefact Analytics
+# Data in Action
 
 At Codefact, we specialize in a spectrum of data analytics services designed to empower your business through strategic insights and advanced technological capabilities. Our offerings span across three primary domains: strategy consulting, advanced analytics, and industry research.
