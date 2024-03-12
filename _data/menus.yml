@@ -10,7 +10,7 @@ main:
     weight: 3
 
 footer:
-  - name: "Privacy"
+  - name: "Privacy Policy"
     url: "/privacy/"
     weight: 1
   - name: "Sitemap"
