@@ -75,74 +75,14 @@ permalink: "/publications/"
   </tr>
   <tr>
     <td>
+      <div style="font-weight: normal; font-size: 1em;">Creating Data Markets in Future Smart Cities</div>
+      <div style="font-size: 0.8em; color: grey;">in WP3 Data Ecosystem, white paper, LuxTurrim 5G Project, Business Finland Funded, 2022.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <div style="font-weight: normal; font-size: 1em;">Federated Learning with Heterogeneity-Aware Probabilistic Synchronous Parallel on Edge</div>
       <div style="font-size: 0.8em; color: grey;">in IEEE Transactions on Services Computing (TSC), 2021.</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div style="font-weight: normal; font-size: 1em;">Understanding Scoped-Flooding for Content Discovery and Caching in Content Networks</div>
-      <div style="font-size: 0.8em; color: grey;">in IEEE Journal on Selected Areas in Communications (JSAC), June. 2018.</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div style="font-weight: normal; font-size: 1em;">Milking the Cache Cow with Fairness in Mind</div>
-      <div style="font-size: 0.8em; color: grey;">in IEEE/ACM Transactions on Networking (ToN), ACM/IEEE, 2017.</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div style="font-weight: normal; font-size: 1em;">Owl: A General-Purpose Numerical Library in OCaml</div>
-      <div style="font-size: 0.8em; color: grey;">in OCaml Workshop, ACM SIGPLAN International Conference on Functional Programming (ICFP), 2017.</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div style="font-weight: normal; font-size: 1em;">I(FIB)F: Iterated Bloom Filters for Routing in Named Data Networks</div>
-      <div style="font-size: 0.8em; color: grey;">in NetSys’17, Germany, 2017. Best Paper Award!</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div style="font-weight: normal; font-size: 1em;">Fast Nearest Neighbor Search through Sparse Random Projections and Voting</div>
-      <div style="font-size: 0.8em; color: grey;">in IEEE International Conference on Big Data, IEEE, USA, Dec. 2016.</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div style="font-weight: normal; font-size: 1em;">FairCache: Introducing Fairness to ICN Caching</div>
-      <div style="font-size: 0.8em; color: grey;">in IEEE International Conference on Network Protocols (ICNP), IEEE, Singapore, Nov. 2016.</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div style="font-weight: normal; font-size: 1em;">Kvasir: Scalable Provision of Semantically Relevant Web Content on Big Data Framework</div>
-      <div style="font-size: 0.8em; color: grey;">in IEEE Transactions on Big Data, Aug. 2016.</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div style="font-weight: normal; font-size: 1em;">Hybrid Renewable Energy Routing for ISP Networks</div>
-      <div style="font-size: 0.8em; color: grey;">in the Proceedings of IEEE INFOCOM 2016, IEEE, Apr. 2016.</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div style="font-weight: normal; font-size: 1em;">Pro-Diluvian: Understanding Scoped-Flooding for Content Discovery in Information-Centric Networking</div>
-      <div style="font-size: 0.8em; color: grey;">in ACM ICN, ACM, Oct. 2015. Best Paper Award!</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div style="font-weight: normal; font-size: 1em;">Understanding Internet Usage and Network Locality in a Rural Community Wireless Mesh Network</div>
-      <div style="font-size: 0.8em; color: grey;">in ACM AINTEC, ACM, Nov. 2015. Best Paper Award</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div style="font-weight: normal; font-size: 1em;">Measuring Large-Scale Distributed Systems: Case of BitTorrent Mainline DHT</div>
-      <div style="font-size: 0.8em; color: grey;">in the Proceedings of IEEE Peer-to-Peer Computing (P2P). Vol.1, No.1, pp.1-10, Sept. 9-11 2013.</div>
     </td>
   </tr>
   <tr>
@@ -189,8 +129,56 @@ permalink: "/publications/"
   </tr>
   <tr>
     <td>
+      <div style="font-weight: normal; font-size: 1em;">Understanding Scoped-Flooding for Content Discovery and Caching in Content Networks</div>
+      <div style="font-size: 0.8em; color: grey;">in IEEE Journal on Selected Areas in Communications (JSAC), June. 2018.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div style="font-weight: normal; font-size: 1em;">Milking the Cache Cow with Fairness in Mind</div>
+      <div style="font-size: 0.8em; color: grey;">in IEEE/ACM Transactions on Networking (ToN), ACM/IEEE, 2017.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div style="font-weight: normal; font-size: 1em;">Owl: A General-Purpose Numerical Library in OCaml</div>
+      <div style="font-size: 0.8em; color: grey;">in OCaml Workshop, ACM SIGPLAN International Conference on Functional Programming (ICFP), 2017.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <div style="font-weight: normal; font-size: 1em;">Of Bots and Humans (on Twitter)</div>
       <div style="font-size: 0.8em; color: grey;">in IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM), 2017.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div style="font-weight: normal; font-size: 1em;">Fast Nearest Neighbor Search through Sparse Random Projections and Voting</div>
+      <div style="font-size: 0.8em; color: grey;">in IEEE International Conference on Big Data, IEEE, USA, Dec. 2016.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div style="font-weight: normal; font-size: 1em;">FairCache: Introducing Fairness to ICN Caching</div>
+      <div style="font-size: 0.8em; color: grey;">in IEEE International Conference on Network Protocols (ICNP), IEEE, Singapore, Nov. 2016.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div style="font-weight: normal; font-size: 1em;">Kvasir: Scalable Provision of Semantically Relevant Web Content on Big Data Framework</div>
+      <div style="font-size: 0.8em; color: grey;">in IEEE Transactions on Big Data, Aug. 2016.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div style="font-weight: normal; font-size: 1em;">Hybrid Renewable Energy Routing for ISP Networks</div>
+      <div style="font-size: 0.8em; color: grey;">in the Proceedings of IEEE INFOCOM 2016, IEEE, Apr. 2016.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div style="font-weight: normal; font-size: 1em;">I(FIB)F: Iterated Bloom Filters for Routing in Named Data Networks</div>
+      <div style="font-size: 0.8em; color: grey;">in NetSys’17, Germany, 2017. Best Paper Award!</div>
     </td>
   </tr>
   <tr>
@@ -247,6 +235,18 @@ permalink: "/publications/"
       <div style="font-size: 0.8em; color: grey;">in the Proceedings of IEEE CCNC FI4D, IEEE, Jan. 2016.</div>
     </td>
   </tr>
+    <tr>
+    <td>
+      <div style="font-weight: normal; font-size: 1em;">Pro-Diluvian: Understanding Scoped-Flooding for Content Discovery in Information-Centric Networking</div>
+      <div style="font-size: 0.8em; color: grey;">in ACM ICN, ACM, Oct. 2015. Best Paper Award!</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div style="font-weight: normal; font-size: 1em;">Understanding Internet Usage and Network Locality in a Rural Community Wireless Mesh Network</div>
+      <div style="font-size: 0.8em; color: grey;">in ACM AINTEC, ACM, Nov. 2015. Best Paper Award</div>
+    </td>
+  </tr>
   <tr>
     <td>
       <div style="font-weight: normal; font-size: 1em;">Optimal Chunking and Partial Caching in Information-Centric Networks</div>
@@ -293,6 +293,12 @@ permalink: "/publications/"
     <td>
       <div style="font-weight: normal; font-size: 1em;">Cooperation Policies for Efficient In-Network Caching</div>
       <div style="font-size: 0.8em; color: grey;">in ACM SIGCOMM Computer Communication Review, ACM, Vol. 43 Issue 4, Oct. 2013.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div style="font-weight: normal; font-size: 1em;">Measuring Large-Scale Distributed Systems: Case of BitTorrent Mainline DHT</div>
+      <div style="font-size: 0.8em; color: grey;">in the Proceedings of IEEE Peer-to-Peer Computing (P2P). Vol.1, No.1, pp.1-10, Sept. 9-11 2013.</div>
     </td>
   </tr>
   <tr>
