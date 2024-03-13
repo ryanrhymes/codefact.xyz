@@ -5,9 +5,12 @@ main:
   - name: "Services"
     url: "/services/"
     weight: 2
+  - name: "Publications"
+    url: "/publications/"
+    weight: 3
   - name: "About"
     url: "/about/"
-    weight: 3
+    weight: 4
 
 footer:
   - name: "Privacy Policy"
