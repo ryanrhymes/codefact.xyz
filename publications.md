@@ -17,7 +17,9 @@ permalink: "/publications/"
         </tr>
         <tr>
             <td style="border: none; padding: 10px; width:200px">
+                <a href="https://link.springer.com/book/9783031558849" target="_blank">
                 <img src="/images/posts/sbea_book.png" width="200px" alt="OCaml Scientific Computing">
+                </a>
             </td>
             <td style="border: none; padding: 10px;">
                 <p>This book is a comprehensive guide for professionals, leaders, and academics seeking to unlock the power of data and analytics in the modern business landscape. It delves deeply into the strategic, architectural, and managerial aspects of implementing enterprise analytics (EA) systems in large enterprises. The book is meticulously structured into three parts. Part 1 lays the foundation for adaptable architecture in EA. Part 2 explores technical considerations: data, cloud platforms, and AI solutions. The final part focuses on strategy execution, investment, and risk management. </p>
@@ -32,7 +34,9 @@ permalink: "/publications/"
         </tr>
         <tr>
             <td style="border: none; padding: 10px; width:200px">
+                <a href="https://link.springer.com/book/10.1007/978-3-030-97645-3" target="_blank">
                 <img src="/images/posts/osc_book.png" width="200px" alt="OCaml Scientific Computing">
+                </a>
             </td>
             <td style="border: none; padding: 10px;">
                 <p>This book is about the harmonious synthesis of functional programming and numerical computation. It shows how the expressiveness of OCaml allows for fast and safe development of data science applications. Step by step, the authors build up to use cases drawn from many areas of Data Science, Machine Learning, and AI, and then delve into how to deploy at scale, using parallel, distributed, and accelerated frameworks to gain all the advantages of cloud computing environments.</p>
@@ -47,7 +51,9 @@ permalink: "/publications/"
                 <td colspan="2" style="border: none; padding: 10px; font-weight: normal; font-size: 1em; color: black">Subtitle: Designing a Scientific Computing System using OCaml</td>
             </tr>
             <td style="border: none; padding: 10px;">
+                <a href="https://link.springer.com/book/10.1007/978-1-4842-8853-5" target="_blank">
                 <img src="/images/posts/aanas_book.png" width="200px" alt="Advanced Architecture of Numerical Aanalysis Systems">
+                </a>
             </td>
             <td style="border: none; padding: 10px;">
                 <p>This unique book applies the functional OCaml programming language to numerical or computational weighted data science, engineering, and scientific applications. This book is based on the authors' first-hand experience building and maintaining Owl, an OCaml-based numerical computing library.</p>
