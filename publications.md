@@ -69,6 +69,18 @@ permalink: "/publications/"
 <table style="width:100%;">
   <tr>
     <td>
+      <div style="font-weight: normal; font-size: 1em;">Trade Flows, Carbon Leakage, and the EU Emissions Trading System</div>
+      <div style="font-size: 0.8em; color: grey;">forthcoming in Journal of Energy Economics, 2024</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div style="font-weight: normal; font-size: 1em;">Does Compensating Firms for Indirect Carbon Costs Work? Evidence from Finnish Manufacturing</div>
+      <div style="font-size: 0.8em; color: grey;">forthcoming in the Journal of the Finnish Economic Association, 2024</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <div style="font-weight: normal; font-size: 1em;">Parallel and Memory-Efficient Distributed Edge Learning in B5G IoT Networks</div>
       <div style="font-size: 0.8em; color: grey;">in IEEE Journal of Selected Topics in Signal Processing, 2023.</div>
     </td>
@@ -83,6 +95,18 @@ permalink: "/publications/"
     <td>
       <div style="font-weight: normal; font-size: 1em;">Federated Learning with Heterogeneity-Aware Probabilistic Synchronous Parallel on Edge</div>
       <div style="font-size: 0.8em; color: grey;">in IEEE Transactions on Services Computing (TSC), 2021.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div style="font-weight: normal; font-size: 1em;">Carbon Border Adjustment Mechanisms and Their Economic Impact on Finland and the EU</div>
+      <div style="font-size: 0.8em; color: grey;">in Publications of the Government's analysis, assessment and research activities 2020</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div style="font-weight: normal; font-size: 1em;">The economic impact of EU free trade agreements for Finland and the EU</div>
+      <div style="font-size: 0.8em; color: grey;">in Publications of the Government's analysis, assessment and research activities, 2019</div>
     </td>
   </tr>
   <tr>
