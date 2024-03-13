@@ -70,7 +70,7 @@ permalink: "/publications/"
   <tr>
     <td>
       <div style="font-weight: normal; font-size: 1em;">Trade Flows, Carbon Leakage, and the EU Emissions Trading System</div>
-      <div style="font-size: 0.8em; color: grey;">forthcoming in Journal of Energy Economics, 2024</div>
+      <div style="font-size: 0.8em; color: grey;">forthcoming in Energy Economics, 2024</div>
     </td>
   </tr>
   <tr>
