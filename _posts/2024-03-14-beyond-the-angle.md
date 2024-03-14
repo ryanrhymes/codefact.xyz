@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 toc: true
 title: "Beyond the Angle: the Complexities of Cosine Similarity"
 date: 2024-03-14 21:44:23 +0200

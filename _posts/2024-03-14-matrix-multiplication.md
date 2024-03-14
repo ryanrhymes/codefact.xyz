@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 toc: true
 title: "Revolutionizing AI: Matrix Multiplication Breakthrough"
 date: 2024-03-14 23:15:43 +0200

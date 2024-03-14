@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 toc: true
 title: "The Technology Development of Generative AI"
 date: 2023-12-15 07:26:33 +0200

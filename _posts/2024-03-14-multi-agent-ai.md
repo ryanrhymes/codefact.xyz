@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 toc: true
 title: "Multi-Agent AI: Beyond Limits"
 date: 2024-03-14 22:12:23 +0200
