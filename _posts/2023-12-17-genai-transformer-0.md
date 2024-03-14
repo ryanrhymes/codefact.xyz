@@ -1,7 +1,7 @@
 ---
 layout: page
 toc: true
-title: "Transformers - the building block of GenAI"
+title: "Transformers - the Building Block of GenAI"
 date: 2023-12-17 19:43:23 +0200
 categories: blog
 bodyClass: page-about

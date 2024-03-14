@@ -1,7 +1,7 @@
 ---
 layout: page
 toc: true
-title: "The technology development of generative AI"
+title: "The Technology Development of Generative AI"
 date: 2023-12-15 07:26:33 +0200
 categories: blog
 bodyClass: page-about
