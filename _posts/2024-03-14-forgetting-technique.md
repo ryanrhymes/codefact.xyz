@@ -2,7 +2,7 @@
 layout: post
 toc: true
 title: "Adaptive Forgetting Enhances AI"
-date: 2024-03-14 22:41:55 +0200
+date: 2024-03-14 23:41:55 +0200
 categories: blog
 ---
 
