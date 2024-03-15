@@ -10,7 +10,7 @@ In the world of computing, a groundbreaking discovery has been made, marking a s
 
 A team of physicists, including the renowned John Preskill, has [unearthed a problem](https://arxiv.org/abs/2303.18224) that finally puts quantum computers in the spotlight for their intended purpose: performing tasks that are practically impossible for classical computers. The crux of this achievement lies in understanding the local minimum energy state of quantum systems – a concept critical in fields like chemistry and material sciences, but incredibly challenging for classical computers to grasp.
 
-![Carlos Arrojo for Quanta Magazine](https://d2r55xnwy6nx47.cloudfront.net/uploads/2024/03/QuantumAdvantage-byCarlosArrojo-Lede-1-scaled.webp)
+![Carlos Arrojo for Quanta Magazine](https://d2r55xnwy6nx47.cloudfront.net/uploads/2024/03/QuantumAdvantage-byCarlosArrojo-Lede-1-scaled.webp "Carlos Arrojo for Quanta Magazine")
 
 So, what does this mean for the future of quantum computing and, by extension, for technology as a whole? This discovery is akin to finding a gold mine in an unexpected place. It's a validation of the years of investment in quantum technology, a sector often viewed with a mix of awe and skepticism. This practical demonstration of quantum advantage catapults quantum computing from theoretical novelty to a tool of untapped potential.
 
