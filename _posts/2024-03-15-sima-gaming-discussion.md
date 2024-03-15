@@ -6,7 +6,7 @@ date: 2024-03-15 21:01:02 +0200
 categories: blog
 ---
 
-Google DeepMind's latest project, SIMA (Scalable Instructable Multiworld Agent), is turning heads in the gaming world, and not without reason. This AI gaming companion represents a leap forward from the conventional NPCs (Non-playable Characters) we've grown accustomed to. Unlike these traditional elements, SIMA operates as a dynamic, language-responsive entity, capable of performing a variety of tasks alongside human players in a 3D virtual environment. Its training across diverse gaming genres sans direct access to games' source code is nothing short of groundbreaking. But as with any technological advancement, SIMA brings its own set of challenges and ethical dilemmas.
+Google DeepMind's latest project, [SIMA (Scalable Instructable Multiworld Agent)](https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/), is turning heads in the gaming world, and not without reason. This AI gaming companion represents a leap forward from the conventional NPCs (Non-playable Characters) we've grown accustomed to. Unlike these traditional elements, SIMA operates as a dynamic, language-responsive entity, capable of performing a variety of tasks alongside human players in a 3D virtual environment. Its training across diverse gaming genres sans direct access to games' source code is nothing short of groundbreaking. But as with any technological advancement, SIMA brings its own set of challenges and ethical dilemmas.
 
 ![Google Deepmind](https://helios-i.mashable.com/imagery/articles/06M7flDxvppPT7JoPJmunIb/hero-image.fill.size_1248x702.v1710432516.jpg "Google Deepmind")
 
