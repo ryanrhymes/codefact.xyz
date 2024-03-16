@@ -6,7 +6,7 @@ date: 2024-03-16 14:20:21 +0200
 categories: blog
 ---
 
-India has recently made a noteworthy pivot in its regulatory approach, highlighted by its latest AI advisory. Originally, the Indian Ministry of Electronics and IT had set forth a framework that mandated government approval before deploying AI models. This stance drew significant criticism, leading to a thoughtful revision. The current scenario no longer requires this stringent approval, marking a significant shift from the previous directive. This decision strikes a delicate balance between fostering innovation and ensuring consumer protection, a theme increasingly relevant in today's tech-centric world.
+India has recently made [a noteworthy pivot](https://techcrunch.com/2024/03/03/india-reverses-ai-stance-requires-government-approval-for-model-launches/) in its regulatory approach, highlighted by its latest AI advisory. Originally, the Indian Ministry of Electronics and IT had set forth a framework that mandated government approval before deploying AI models. This stance drew significant criticism, leading to a thoughtful revision. The current scenario no longer requires this stringent approval, marking a significant shift from the previous directive. This decision strikes a delicate balance between fostering innovation and ensuring consumer protection, a theme increasingly relevant in today's tech-centric world.
 
 ![Image Credits: Sanjit Das / Bloomberg / Getty Images](https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-691021212.jpg?w=1390&crop=1 "Image Credits: Sanjit Das / Bloomberg / Getty Images")
 
