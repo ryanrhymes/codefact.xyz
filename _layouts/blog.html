@@ -5,19 +5,28 @@ bodyClass: "page-services"
 
 <div class="strip">
     <div class="container pt-6 pb-6 pb-md-10">
-  
+
+      <div class="col-12 col-md-9 mb-1">
+        <div class="service service-summary">
+        <div class="service-content">
+          {{ content }}
+        </div>
+        </div>
+      </div>
+
       {% for post in site.posts %}
         {% assign words = post.content | strip_html | number_of_words %}
         {% assign duration = words | divided_by: 200 | plus: 1 %}
         <div class="col-12 col-md-9 mb-1">
           <div class="service service-summary">
           <div class="service-content">
+            <hr style="margin-top: 2em;" />
             <h2 class="service-title">
               <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
             </h2>
-            <!--
-            <div style="font-size: 0.8em; color: gray; margin-bottom: 0.5em;">Date: {{ post.date }}, Length: {{words}} words, Duration: {{duration}} min read</div>
-            -->
+            <div style="font-size: 0.8em; color: gray; margin-bottom: 0.5em;">
+              Date: {{ post.date }}, Length: {{words}} words, Duration: {{duration}} min read, Article: #{{ site.posts | size | minus: forloop.index | plus: 1 }}
+            </div>
             <p>{{ post.excerpt | markdownify | strip_html | truncate: 200 }}</p>
           </div>
           </div>
