@@ -5,7 +5,7 @@ description: Publications
 permalink: "/publications/"
 ---
 
-# Our Books
+<h1 style="margin-top: 0;">Our Books</h1>
 
 <div>
     <table style="border-collapse: collapse; width: 100%">
@@ -64,7 +64,7 @@ permalink: "/publications/"
 </div>
 
 
-# Selected Articles
+<h1 style="margin-top: 30px;">Selected Articles</h1>
 
 <table style="width:100%;">
   <tr>
