@@ -10,11 +10,15 @@ The recent announcement from [AI2 Incubator](https://www.ai2incubator.com/), an 
 
 ![Image Credits: AI2 Incubator](https://techcrunch.com/wp-content/uploads/2024/03/ai2-logo.jpg?w=1390&crop=1 "Image Credits: AI2 Incubator")
 
+## The $200M Leap Forward
+
 Jacob Colker, the managing director of AI2 Incubator, sheds light on a pressing issue that has been stifling AI startups – the dire need for computational resources. Many of these companies find themselves hamstrung in their growth and ability to demonstrate early success, limited by the lack of resources to train models beyond basic API options. The availability of up to $1 million in dedicated AI compute for each startup in the incubator's portfolio promises to break these chains, offering a robust platform for development, particularly for those delving into foundational AI models.
 
 This investment is transformative, not just for the recipient startups but for the entire AI industry. By democratizing access to high-level compute power, AI2 Incubator is leveling the playing field, enabling smaller players to undertake projects that were once the exclusive domain of well-funded giants. This could potentially lead to a significant uptick in innovation, diversifying the AI landscape with fresh ideas and groundbreaking technologies.
 
 However, it's crucial to temper our enthusiasm with a dose of reality. While this investment undeniably opens new doors in terms of technical capability, startups still face a myriad of other challenges. Issues such as access to quality data, navigating complex regulatory landscapes, and carving out sustainable business models remain as significant hurdles. Hence, while this development is a monumental step forward in computational terms, it doesn't necessarily iron out all the creases in the fabric of AI startup challenges.
+
+## Beyond Computing Power
 
 The current wave of AI startups heavily relies on APIs and data from large language models developed by major players like OpenAI, Anthropic, Google, and Microsoft. This dependency suggests a lack of unique data sets and innovative approaches in the AI startup ecosystem. The AI industry, booming with an estimated tens of thousands startups and substantial financial backing, mirrors in some ways the dot-com bubble of the early 2000s. This parallel raises concerns about overvaluation, speculative investment, and a potential bubble burst in the AI sector.
 
