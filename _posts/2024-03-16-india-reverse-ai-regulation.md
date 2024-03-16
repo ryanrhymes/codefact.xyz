@@ -1,7 +1,7 @@
 ---
 layout: post
 toc: true
-title: "India's Balanced Approach to Regulation"
+title: "India's Balanced Approach to AI Regulation"
 date: 2024-03-16 14:20:21 +0200
 categories: blog
 ---
