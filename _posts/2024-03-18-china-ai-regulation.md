@@ -6,7 +6,7 @@ date: 2024-03-18 01:45:00 +0200
 categories: blog
 ---
 
-China's foray into artificial intelligence (AI) regulation marks a pioneering journey, unveiling a detailed and structured framework that can reshape global AI governance. The narrative isn't just about regulatory mechanisms; it's a tale of strategic balancing between technological prowess and stringent control. This framework, dissected in [Matt Sheehan's meticulous analysis](https://www.euronews.com/next/2023/11/09/can-the-eu-and-its-allies-cooperate-with-china-on-ai-safety-standards), mirrors the dynamics of China's political and technological ambitions.
+China's foray into artificial intelligence (AI) regulation marks a pioneering journey, unveiling a detailed and structured framework that can reshape global AI governance. The narrative isn't just about regulatory mechanisms; it's a tale of strategic balancing between technological prowess and stringent control. This framework, dissected in [Matt Sheehan's meticulous analysis](https://carnegieendowment.org/2023/07/10/china-s-ai-regulations-and-how-they-get-made-pub-90117), mirrors the dynamics of China's political and technological ambitions.
 
 ![The Policy Funnel of China's AI Regulation](https://images.carnegieendowment.org/images/article_images/20230710-Sheehan_figure1_0ff37605-8e40-45a3-97f6-9ca073245890.png "The Policy Funnel of China's AI Regulation")
 
