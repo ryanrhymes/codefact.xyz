@@ -27,7 +27,7 @@ bodyClass: "page-services"
 
         <div class="row justify-content-start mb-1">
           <!-- Title row -->
-          <div class="col-9">
+          <div class="col-12 col-md-9">
             <div class="service-content">
               <hr style="margin-top: 1em;" />
               <h2 class="service-title">
@@ -39,14 +39,14 @@ bodyClass: "page-services"
 
         <div class="row justify-content-start mb-1">
           <!-- Image cell -->
-          <div class="col-9 col-md-3">
+          <div class="col-12 col-md-3">
             <div style="width: 100%; height: 140px; overflow: hidden;">
               <img src="{{ first_img_url }}" style="width: 100%; height: auto;"/>
             </div>
           </div>
       
           <!-- Meta information and excerpt cell -->
-          <div class="col-9 col-md-6" style="vertical-align: top;">
+          <div class="col-12 col-md-6" style="vertical-align: top;">
             <div class="service-content">
               <div style="font-size: 0.8em; color: gray; margin-bottom: 0.5em;">
                 Date: {{ post.date }}, Length: {{words}} words, Duration: {{duration}} min read, Article: #{{ site.posts | size | minus: forloop.index | plus: 1 }}
