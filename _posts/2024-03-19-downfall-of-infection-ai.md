@@ -2,7 +2,7 @@
 layout: post
 toc: true
 title: "The Swift Descent of Inflection AI"
-date: 2024-03-19 20:49:00 +0200
+date: 2024-03-19 21:00:00 +0200
 categories: blog
 ---
 
