@@ -1,7 +1,7 @@
 ---
 layout: post
 toc: true
-title: "Are Perception Contracts the Solution for Autonomous Vehicle Safety?"
+title: "What Is the Solution for Autonomous Vehicle Safety?"
 date: 2024-03-19 13:43:00 +0200
 categories: blog
 ---
