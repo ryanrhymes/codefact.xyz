@@ -1,7 +1,7 @@
 ---
 layout: post
 toc: true
-title: "The Swift Descent of Inflection AI"
+title: "The Swift Descent of Inflection AI: What Went Wrong?"
 date: 2024-03-19 21:00:00 +0200
 categories: blog
 ---
