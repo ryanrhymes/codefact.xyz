@@ -3,18 +3,18 @@ layout: default
 bodyClass: "page-basic"
 ---
 
-<div class="container pb-6 pt-6 pt-md-10 pb-md-10">
+<div class="container pb-6 pt-6 pb-md-5">
     <div class="row justify-content-start">
         <div class="col-12">
             <div class="service service-single">
-                <h2 class="title" style="margin-bottom:1em">{{page.title}}</h2>
+                <h2 class="title" style="margin-bottom:1em">{{ page.title }}</h2>
 
                 <!-- Editor's Note -->
                 <h2>Editor's Note</h2>
                 <hr style="margin-bottom: 1em;" />
 
                 <span style="font-style: italic;">
-                    {{page.excerpt}}
+                    {{ page.excerpt }}
                 </span>
 
                 <!-- Cover Story -->
@@ -95,6 +95,10 @@ bodyClass: "page-basic"
                         </div>
                     </div>
                 {% endfor %}
+
+                <div style="margin-top: 3em; font-style: italic;">
+                    <p>If you are interested, please <a href="https://codefact.substack.com/welcome">subscribe</a> now to receive weekly updates!</p>
+                </div>
 
             </div>
         </div>

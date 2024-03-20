@@ -25,4 +25,3 @@ selected_posts:
 ---
 
 This week's newsletter delves into the dynamic world of AI, spotlighting Timnit Gebru's advocacy for ethics and diversity in tech, alongside cutting-edge developments from adaptive learning techniques to quantum computing breakthroughs. Highlighting strategic industry shifts, like Apple's acquisition of DarwinAI, and the critical discussions around AI's role in biology and creative industries, we encapsulate the rapid innovation within AI and the ongoing dialogue on ethical frameworks and regulatory needs. Through these highlights, we aim to provide a concise overview of AI's transformative journey and its societal impacts.
-If you are interested, please [subscribe](https://codefact.substack.com/welcome) now to receive weekly updates!
