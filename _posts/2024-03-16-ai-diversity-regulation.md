@@ -6,7 +6,7 @@ date: 2024-03-16 00:02:51 +0200
 categories: blog
 ---
 
-In the realm of artificial intelligence (AI), the case of Timnit Gebru, a former Google AI researcher, serves as a poignant example of the complex intersection between technology, ethics, and workplace diversity. Born in Ethiopia and raised in an environment marked by adversity, including fleeing her home during the Eritrean-Ethiopian War and facing discrimination upon her arrival in the US, Gebru's journey is one of resilience and defiance against systemic biases. This background has undoubtedly shaped her perspective on the need for ethical considerations in AI and the importance of diverse voices in technology.
+In the realm of artificial intelligence (AI), the case of [Timnit Gebru](https://en.wikipedia.org/wiki/Timnit_Gebru), a former Google AI researcher, serves as a poignant example of the complex intersection between technology, ethics, and workplace diversity. Born in Ethiopia and raised in an environment marked by adversity, including fleeing her home during the Eritrean-Ethiopian War and facing discrimination upon her arrival in the US, Gebru's journey is one of resilience and defiance against systemic biases. This background has undoubtedly shaped her perspective on the need for ethical considerations in AI and the importance of diverse voices in technology.
 
 ![Timnit Gebru](https://peopleofcolorintech.com/wp-content/uploads/2023/03/ezgif.com-webp-to-png-9-1080x635.png "Timnit Gebru")
 
