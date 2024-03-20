@@ -7,8 +7,22 @@ bodyClass: "page-basic"
 
 selected_posts:
   - path: _posts/2024-03-16-ai-diversity-regulation.md
-  - path: _posts/2024-03-17-can-llm-understand-text.md
+  - path: _posts/2024-03-14-forgetting-technique.md
+  - path: _posts/2024-03-14-multi-agent-ai.md
+  - path: _posts/2024-03-15-llm-capabilities.md
+  - path: _posts/2024-03-14-matrix-multiplication.md
+  - path: _posts/2024-03-14-beyond-the-angle.md
   - path: _posts/2024-03-16-enhanced-lll-algorithm.md
+  - path: _posts/2024-03-15-sima-gaming-discussion.md
+  - path: _posts/2024-03-15-apple-darwin-ai.md
+  - path: _posts/2024-03-15-databricks-mistral-partnership.md
+  - path: _posts/2024-03-15-zscaler-avalor-ma.md
+  - path: _posts/2024-03-16-empowering-ai-startup.md
+  - path: _posts/2024-03-15-ethics-in-creative-industries.md
+  - path: _posts/2024-03-16-ai-bioweapon.md
+  - path: _posts/2024-03-15-quantum-computing.md
+  - path: _posts/2024-03-16-india-reverse-ai-regulation.md
+  - path: _posts/2024-03-16-warpstream-cloud-native-streaming.md
 ---
 
 <div class="container pb-6 pt-6 pt-md-10 pb-md-10">
@@ -17,7 +31,17 @@ selected_posts:
             <div class="service service-single">
                 <h2 class="title" style="margin-bottom:1em">{{page.title}}</h2>
 
+                <!-- Editor's Note -->
+                <h2>Editor's Note</h2>
+                <hr style="margin-bottom: 1em;" />
+
+                <p style="font-style: italic;">
+                This week's newsletter delves into the dynamic world of AI, spotlighting Timnit Gebru's advocacy for ethics and diversity in tech, alongside cutting-edge developments from adaptive learning techniques to quantum computing breakthroughs. Highlighting strategic industry shifts, like Apple's acquisition of DarwinAI, and the critical discussions around AI's role in biology and creative industries, we encapsulate the rapid innovation within AI and the ongoing dialogue on ethical frameworks and regulatory needs. Through these highlights, we aim to provide a concise overview of AI's transformative journey and its societal impacts.
+                </p>
+
                 <!-- Cover Story -->
+                <h2>Cover Story</h2>
+                <hr style="margin-bottom: 1em;" />
 
                 {% for post_entry in page.selected_posts %}
                     {% assign post = site.posts | where: 'path', post_entry.path | first %}
@@ -34,7 +58,7 @@ selected_posts:
                         <div class="row justify-content-start mb-1">
                             <!-- Image cell -->
                             <div class="col-12 col-md-7">
-                                <div style="width: 100%; height: 400px; overflow: hidden;">
+                                <div style="width: 100%; overflow: hidden;">
                                 <img src="{{ first_img_url }}" style="width: 100%; height: auto;"/>
                                 </div>
                             </div>
@@ -74,7 +98,7 @@ selected_posts:
                         <hr style="margin-bottom: 1em;" />
                         <!-- Image cell -->
                         <div class="col-12 col-md-3">
-                            <div style="width: 100%; height: 140px; overflow: hidden;">
+                            <div style="width: 100%; overflow: hidden;">
                             <img src="{{ first_img_url }}" style="width: 100%; height: auto;"/>
                             </div>
                         </div>
