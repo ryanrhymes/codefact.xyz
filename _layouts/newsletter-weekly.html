@@ -11,7 +11,7 @@ bodyClass: "page-basic"
 
                 <!-- Editor's Note -->
                 <h2>Editor's Note</h2>
-                <hr style="margin-bottom: 1em;" />
+                <hr style="margin: 0 0 1em 0;" />
 
                 <span style="font-style: italic;">
                     {{ page.excerpt }}
@@ -19,7 +19,7 @@ bodyClass: "page-basic"
 
                 <!-- Cover Story -->
                 <h2>Cover Story</h2>
-                <hr style="margin-bottom: 1em;" />
+                <hr style="margin: 0 0 2em 0;" />
 
                 {% for post_entry in page.selected_posts %}
                     {% assign post = site.posts | where: 'path', post_entry.path | first %}
@@ -73,7 +73,7 @@ bodyClass: "page-basic"
                     {% assign duration = words | divided_by: 200 | plus: 1 %}
 
                     <div class="row justify-content-start mb-1">
-                        <hr style="margin-bottom: 1em;" />
+                        <hr style="margin: 0 0 1.5em 0;" />
                         <!-- Image cell -->
                         <div class="col-12 col-md-3">
                             <div style="width: 100%; overflow: hidden;">
