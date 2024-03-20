@@ -2,8 +2,8 @@
 title: Privacy Policy
 layout: page
 description: Privacy
-permalink: "/privacy/"
 bodyClass: page-basic
+permalink: "/privacy/"
 ---
 
 The privacy of our visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.

@@ -14,6 +14,8 @@ bodyClass: "page-services"
         </div>
       </div>
 
+      <h2>Daily Stream</h2>
+
       {% for post in site.posts %}
         {% assign words = post.content | strip_html | number_of_words %}
         {% assign duration = words | divided_by: 200 | plus: 1 %}
@@ -29,7 +31,7 @@ bodyClass: "page-services"
           <!-- Title row -->
           <div class="col-12 col-md-9">
             <div class="service-content">
-              <hr style="margin-top: 1em;" />
+              <hr style="margin-top: 0em;" />
               <h2 class="service-title">
                 <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
               </h2>
