@@ -2,7 +2,7 @@
 layout: post
 toc: true
 title: "Microsoft's Copilot Key Strategy: Business Now, Consumers Next"
-date: 2024-03-22 15:00:00 +0200
+date: 2024-03-22 13:00:00 +0200
 categories: blog
 ---
 
