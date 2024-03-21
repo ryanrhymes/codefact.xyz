@@ -2,7 +2,7 @@
 layout: post
 toc: true
 title: "Fintech's Funding Frost and the Thaw on the Horizon"
-date: 2024-03-21 08:00:00 +0200
+date: 2024-03-21 09:00:00 +0200
 categories: blog
 ---
 
