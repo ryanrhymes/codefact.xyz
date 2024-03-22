@@ -4,6 +4,7 @@ toc: true
 title: "AI in Creativity Is About Augmentation, Not Replacement"
 date: 2024-03-23 03:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/6VtGbuRxXTawH8LQ6XvGxI"
 ---
 
 The integration of artificial intelligence in the creative realm of writing has sparked a complex dialogue about the future of human creativity and the role of AI in augmenting the creative process. The case of Stephen Marche's "Death of an Author," an AI-crafted mystery novella, provides a fascinating glimpse into this evolving landscape. Marche's experiment underscores a crucial realization: while AI can streamline specific tasks, the essence of storytelling—characterized by nuanced plots and the ability to convey double meanings—remains a domain governed by human intuition and creativity.
