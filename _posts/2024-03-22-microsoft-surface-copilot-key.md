@@ -4,6 +4,7 @@ toc: true
 title: "Microsoft's Copilot Key Strategy: Business Now, Consumers Next"
 date: 2024-03-22 06:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/2vLwa3KgwkK0hGiS9cnReq"
 ---
 
 Microsoft's latest move with its [Surface](https://www.tomsguide.com/computing/live/microsoft-surface-event-2024-live-blog) lineup signals a clear intent to lead in AI-driven productivity. By embedding a dedicated Copilot key in the new Surface Pro 10 for Business and Surface Laptop 6 for Business, Microsoft not only showcases its commitment to AI but also strategically focuses on the enterprise market. This initiative underscores the potential of AI to streamline complex tasks, from document searches to day planning, within a business context. However, this decision brings to the forefront a pivotal question: As Microsoft gears its latest Surface releases towards business customers, what implications might this strategy hold for its foothold in the broader consumer market, especially considering future consumer-oriented releases?
