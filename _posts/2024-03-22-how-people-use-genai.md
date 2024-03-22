@@ -4,6 +4,7 @@ toc: true
 title: "Real-World GenAI Adoption and Hurdles"
 date: 2024-03-22 05:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/6GjdMD9r2qHJFIAccDfDfq"
 ---
 
 In a [recent exploration](https://hbr.org/2024/03/how-people-are-really-using-genai) by Marc Zao-Sanders, the vast landscape of Generative AI (GenAI) applications was carefully charted, uncovering a realm where technology transcends mere task automation to become a catalyst for human creativity, productivity, and problem-solving. Through an ambitious analysis of online forum discussions, Zao-Sanders and his team from Filtered Technologies unearthed over a hundred use cases of GenAI, distilled into six thematic areas: Technical Assistance & Troubleshooting, Content Creation & Editing, Personal & Professional Support, Learning & Education, Creativity & Recreation, and Research, Analysis & Decision Making. This classification not only illuminates the multifaceted utility of GenAI but also underscores its role in enhancing human capabilities across both professional and personal spheres.
