@@ -2,7 +2,7 @@
 layout: post
 toc: true
 title: "Real-World GenAI Adoption and Hurdles"
-date: 2024-03-22 14:00:00 +0200
+date: 2024-03-22 05:00:00 +0200
 categories: blog
 ---
 

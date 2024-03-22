@@ -2,7 +2,7 @@
 layout: post
 toc: true
 title: "Ultrahuman vs. Oura: A Battle in the Smart Ring Arena"
-date: 2024-03-22 06:00:00 +0200
+date: 2024-03-22 03:00:00 +0200
 categories: blog
 ---
 
