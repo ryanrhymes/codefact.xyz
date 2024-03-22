@@ -4,7 +4,7 @@ build:
 
 .PHONY: 
 serve:
-	bundle exec jekyll serve
+	bundle exec jekyll serve --future
 
 .PHONY: clean
 clean:
