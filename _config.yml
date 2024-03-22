@@ -1,6 +1,7 @@
 baseurl: '/'
 permalink: pretty
 title: '© Codefact Oy'
+description: "Codefact is a data analytics consulting company."
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
@@ -53,3 +54,7 @@ exclude:
   - LICENSE.md
   - LICENSE
   - README.md
+
+feed_items: 50
+feed_update_period: daily
+feed_update_frequency: 1
