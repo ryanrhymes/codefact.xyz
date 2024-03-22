@@ -2,7 +2,7 @@
 layout: post
 toc: true
 title: "Arc Browser's Bold Leap: Innovation Meets Controversy"
-date: 2024-03-22 12:00:00 +0200
+date: 2024-03-22 07:00:00 +0200
 categories: blog
 ---
 
