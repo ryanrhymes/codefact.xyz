@@ -4,6 +4,7 @@ toc: true
 title: "Reddit's IPO Surge Amidst Regulatory Shadows"
 date: 2024-03-21 20:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/3aCvc5RbUMIiWcqV3THPMQ"
 ---
 
 Reddit's initial public offering (IPO) has become a beacon of interest, soaring 60% within minutes of its debut, despite the social media giant's unprofitability. The pricing of shares at the high end of its target range and a peak share price of $57.80 highlights a market optimism that seems to transcend traditional financial metrics. What sets Reddit apart in this buoyant market debut is its significant engagement with the AI sector, having sold $203 million worth of contracts to AI companies for data access. This move not only showcases Reddit as a treasure trove for AI training data but also positions it as a potentially major player in the AI-driven future of technology.

@@ -4,6 +4,7 @@ toc: true
 title: "Ultrahuman vs. Oura: A Battle in the Smart Ring Arena"
 date: 2024-03-22 03:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/7anAX5yfAoGH3clJnzeJyB"
 ---
 
 The wearable technology market, particularly smart rings, is witnessing a fascinating battle as India's Ultrahuman gears up to challenge Oura, the current market leader. With a recent infusion of $35 million in Series B funding, Ultrahuman is not just dreaming big but also strategically laying the groundwork to potentially lead the market within the next 12 to 15 months.

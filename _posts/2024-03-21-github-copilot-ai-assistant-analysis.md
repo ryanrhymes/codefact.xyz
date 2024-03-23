@@ -4,6 +4,7 @@ toc: true
 title: "Contrasting GitHub's AI Tools with GitClear's Concerns"
 date: 2024-03-21 19:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/2sgSV5Xgk9f6pmLxo5ZPO5"
 ---
 
 GitHub has recently introduced two AI-driven features aimed at streamlining software development: a code-scanning autofix feature and GitHub Copilot Chat. The autofix feature, integrating GitHub Copilot with CodeQL, automatically identifies and resolves vulnerabilities in several programming languages, including JavaScript, TypeScript, Java, and Python, often without requiring developer intervention. GitHub Copilot Chat, leveraging OpenAI's GPT-4, offers real-time coding assistance, aiming to improve both code quality and developer productivity. GitHub's internal research suggests these tools enhance coding efficiency and improve the overall quality of the code.

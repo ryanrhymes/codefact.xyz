@@ -4,6 +4,7 @@ toc: true
 title: "The Rise of AI Shopping Assistants"
 date: 2024-03-21 17:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/0LVgz92nftTRtepQ6GfbcS"
 ---
 
 While the digital marketplace is ever-expanding, AI shopping assistants like [Cherry](https://chrry.io/) are at the forefront of transforming online shopping into an intuitive, personalized, and efficient experience. Cherry’s innovative approach, leveraging AI to allow users to discover products through images, represents a broader movement towards integrating artificial intelligence into e-commerce to enhance customer satisfaction and streamline the shopping process.
