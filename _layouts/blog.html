@@ -6,7 +6,7 @@ bodyClass: "page-services"
 <div class="strip">
     <div class="container pt-6 pb-6 pb-md-5">
 
-      <div class="col-12 col-md-9 mb-1">
+      <div class="col-12 col-md-12 mb-1">
         <div class="service service-summary">
         <div class="service-content">
           {{ content }}
@@ -27,33 +27,33 @@ bodyClass: "page-services"
           {% assign first_img_url = first_img_tag | split: 'src="' | last | split: '"' | first %}
         {% endif %}
 
-        <div class="row justify-content-start mb-1">
-          <!-- Title row -->
-          <div class="col-12 col-md-9">
+        <div class="row justify-content-start mb-2">
+          <hr style="margin: 0 0 0.8em 0;" />
+
+          <!-- Image and podcast cell -->
+          <div class="col-12 col-md-4">
+            <div style="width: 100%; overflow: hidden;">
+              <a href="{{ post.url | relative_url }}"">
+                <img src="{{ first_img_url }}" style="width: 100%; height: auto;"/>
+              </a>
+            </div>
+            {% if post.podcast %}
+              <div class="podcast-player" style="margin: 0.5em 0 0 0;">
+                <iframe style="border-radius:12px" src="{{ post.podcast }}?utm_source=generator" width="100%" height="80px" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+              </div>
+            {% endif %}
+          </div>
+      
+          <!-- Meta information, title, and excerpt cell -->
+          <div class="col-12 col-md-8" style="vertical-align: top;">
             <div class="service-content">
-              <hr style="margin: 0 0 0.8em 0;" />
               <h2 class="service-title">
                 <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
               </h2>
-            </div>
-          </div>
-        </div>
-
-        <div class="row justify-content-start mb-2">
-          <!-- Image cell -->
-          <div class="col-12 col-md-3">
-            <div style="width: 100%; overflow: hidden;">
-              <img src="{{ first_img_url }}" style="width: 100%; height: auto;"/>
-            </div>
-          </div>
-      
-          <!-- Meta information and excerpt cell -->
-          <div class="col-12 col-md-6" style="vertical-align: top;">
-            <div class="service-content">
-              <div style="font-size: 0.8em; color: gray; margin-bottom: 0.5em;">
+              <div style="font-size: 0.8em; color: gray; margin-bottom: 1em;">
                 Date: {{ post.date }}, Length: {{words}} words, Duration: {{duration}} min read, Article: #{{ site.posts | size | minus: forloop.index | plus: 1 }}
               </div>
-              <p>{{ post.excerpt | markdownify | strip_html | truncate: 300 }}</p>
+              <p>{{ post.excerpt | markdownify | strip_html | truncate: 600 }}</p>
             </div>
           </div>
         </div>

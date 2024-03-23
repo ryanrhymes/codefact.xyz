@@ -5,4 +5,4 @@ description: Blog
 permalink: "/blog/"
 ---
 
-Keep ahead in technology and business with our weekly newsletter. We offer sharp analysis and data-driven insights on key trends. [Subscribe Now](https://codefact.substack.com/welcome) to lead the curve!
+We offer sharp analysis and data-driven insights on key trends. If you are interested, please <a href="https://codefact.substack.com/welcome">subscribe</a> to receive weekly updates!

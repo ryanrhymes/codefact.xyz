@@ -4,6 +4,7 @@ toc: true
 title: "Climate Tech Labyrinth: Innovative Ventures and Stubborn Realities"
 date: 2024-03-22 04:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/7tgR6vdtnvVPZcSj3L78qd"
 ---
 
 The realm of climate technology is witnessing an invigorating mix of innovation and strategic ventures aimed at mitigating climate change. From the corridors of venture capital to the incubators of entrepreneurship, a new wave of climate tech initiatives is emerging, each carrying the promise of a greener, more sustainable future. However, this burgeoning optimism is met with a stark contrast in the form of entrenched fossil fuel interests, reminding us of the complex, multifaceted battle against climate change.

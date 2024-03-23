@@ -4,6 +4,7 @@ toc: true
 title: "The AI Spelling Conundrum"
 date: 2024-03-23 01:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/2ULuEgRpgRD6bLsJQ8h9Yc"
 ---
 
 Artificial intelligence (AI) feats headline daily news — be it acing the SAT, defeating chess grandmasters, or debugging code with apparent ease. However, the humble task of spelling correctly seems to stump these technological marvels. This conundrum, as [detailed in TechCrunch](https://techcrunch.com/2024/03/21/why-is-ai-so-bad-at-spelling/), showcases a peculiar vulnerability in AI: its struggle with spelling and text structure, areas where even middle schoolers excel.

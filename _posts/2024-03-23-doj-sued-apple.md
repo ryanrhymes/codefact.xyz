@@ -4,6 +4,7 @@ toc: true
 title: "DOJ Filed a Lawsuit Against Apple"
 date: 2024-03-23 09:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/5wsmpbzPjJq1xolwRZb74b"
 ---
 
 In a significant move that has stirred the tech community, the U.S. Department of Justice (DOJ) filed a lawsuit against Apple, casting a glaring spotlight on the iPhone maker’s relentless efforts to stifle competition and innovation. Central to the lawsuit is Apple’s battle against Beeper, a startup that dared to bridge the messaging gap between iOS and Android users by reverse-engineering the iMessage protocol. This bold initiative aimed to provide Android users access to the coveted end-to-end encrypted messaging service, historically exclusive to the Apple ecosystem.
