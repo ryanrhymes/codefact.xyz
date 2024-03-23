@@ -2,7 +2,7 @@
 layout: post
 toc: true
 title: "Policy-Driven vs. Market-Driven: EU's AI Strategies"
-date: 2024-03-24 03:00:00 +0200
+date: 2024-03-24 04:00:00 +0200
 categories: blog
 ---
 

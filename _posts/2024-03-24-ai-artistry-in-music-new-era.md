@@ -2,7 +2,7 @@
 layout: post
 toc: true
 title: "The Harmonious Blend of AI and Artistry in Music's New Era"
-date: 2024-03-24 01:00:00 +0200
+date: 2024-03-24 02:00:00 +0200
 categories: blog
 podcast: "https://open.spotify.com/embed/episode/1fGYf2rBuvwTfe89k9zfuU"
 ---
