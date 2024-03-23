@@ -18,21 +18,22 @@ bodyClass: "page-basic"
                 </span>
 
                 <!-- Cover Story -->
-                <h2>Cover Story</h2>
-                <hr style="margin: 0 0 2em 0;" />
 
-                {% for post_entry in page.selected_posts %}
-                    {% assign post = site.posts | where: 'path', post_entry.path | first %}
-                    {% assign first_img_url = "" %}
-                    {% if post.content contains "<img" %}
-                        {% assign img_tags = post.content | split: '<img ' %}
-                        {% assign first_img_tag = img_tags[1] | split: '>' | first %}
-                        {% assign first_img_url = first_img_tag | split: 'src="' | last | split: '"' | first %}
-                    {% endif %}
-                    {% assign words = post.content | strip_html | number_of_words %}
-                    {% assign duration = words | divided_by: 200 | plus: 1 %}
+                {% for item in page.table_of_content %}
+                    {% assign column = item.column %}
+                    {% if column.name == "Cover Story" %}
+                        <h2>{{ column.name }}</h2>
+                        <hr style="margin: 0 0 2em 0;" />
+                        {% assign post = site.posts | where: 'path', column.articles[0].path | first %}
+                        {% assign first_img_url = "" %}
+                        {% if post.content contains "<img" %}
+                            {% assign img_tags = post.content | split: '<img ' %}
+                            {% assign first_img_tag = img_tags[1] | split: '>' | first %}
+                            {% assign first_img_url = first_img_tag | split: 'src="' | last | split: '"' | first %}
+                        {% endif %}
+                        {% assign words = post.content | strip_html | number_of_words %}
+                        {% assign duration = words | divided_by: 200 | plus: 1 %}
 
-                    {% if forloop.first %}
                         <div class="row justify-content-start mb-1">
                             <!-- Image cell -->
                             <div class="col-12 col-md-7">
@@ -59,41 +60,44 @@ bodyClass: "page-basic"
 
 
                 <!-- Story Collection -->
-                <h2>Featured Articles</h2>
 
-                {% for post_entry in page.selected_posts offset:1 %}
-                    {% assign post = site.posts | where: 'path', post_entry.path | first %}
-                    {% assign first_img_url = "" %}
-                    {% if post.content contains "<img" %}
-                        {% assign img_tags = post.content | split: '<img ' %}
-                        {% assign first_img_tag = img_tags[1] | split: '>' | first %}
-                        {% assign first_img_url = first_img_tag | split: 'src="' | last | split: '"' | first %}
-                    {% endif %}
-                    {% assign words = post.content | strip_html | number_of_words %}
-                    {% assign duration = words | divided_by: 200 | plus: 1 %}
+                {% for item in page.table_of_content offset:1 %}
+                    {% assign column = item.column %}
+                    <h2>{{ column.name }}</h2>
+                    {% for post_entry in column.articles %}
+                        {% assign post = site.posts | where: 'path', post_entry.path | first %}
+                        {% assign first_img_url = "" %}
+                        {% if post.content contains "<img" %}
+                            {% assign img_tags = post.content | split: '<img ' %}
+                            {% assign first_img_tag = img_tags[1] | split: '>' | first %}
+                            {% assign first_img_url = first_img_tag | split: 'src="' | last | split: '"' | first %}
+                        {% endif %}
+                        {% assign words = post.content | strip_html | number_of_words %}
+                        {% assign duration = words | divided_by: 200 | plus: 1 %}
 
-                    <div class="row justify-content-start mb-1">
-                        <hr style="margin: 0 0 1.5em 0;" />
-                        <!-- Image cell -->
-                        <div class="col-12 col-md-3">
-                            <div style="width: 100%; overflow: hidden;">
-                            <img src="{{ first_img_url }}" style="width: 100%; height: auto;"/>
+                        <div class="row justify-content-start mb-1">
+                            <hr style="margin: 0 0 1.5em 0;" />
+                            <!-- Image cell -->
+                            <div class="col-12 col-md-3">
+                                <div style="width: 100%; overflow: hidden;">
+                                <img src="{{ first_img_url }}" style="width: 100%; height: auto;"/>
+                                </div>
+                            </div>
+                        
+                            <!-- Meta information and excerpt cell -->
+                            <div class="col-12 col-md-9" style="vertical-align: top;">
+                                <div class="service-content">
+                                <h2 class="service-title">
+                                    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+                                </h2>
+                                <div style="font-size: 0.8em; color: gray; margin-bottom: 0.5em;">
+                                    Published on {{ post.date }}, {{words}} words, {{duration}} min read, #{{ site.posts | size | minus: forloop.index | plus: 1 }}
+                                </div>
+                                <p>{{ post.excerpt | markdownify | strip_html | truncate: 300 }}</p>
+                                </div>
                             </div>
                         </div>
-                    
-                        <!-- Meta information and excerpt cell -->
-                        <div class="col-12 col-md-9" style="vertical-align: top;">
-                            <div class="service-content">
-                            <h2 class="service-title">
-                                <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-                            </h2>
-                            <div style="font-size: 0.8em; color: gray; margin-bottom: 0.5em;">
-                                Published on {{ post.date }}, {{words}} words, {{duration}} min read, #{{ site.posts | size | minus: forloop.index | plus: 1 }}
-                            </div>
-                            <p>{{ post.excerpt | markdownify | strip_html | truncate: 300 }}</p>
-                            </div>
-                        </div>
-                    </div>
+                    {% endfor %}
                 {% endfor %}
 
                 <div style="margin-top: 3em; font-style: italic;">
