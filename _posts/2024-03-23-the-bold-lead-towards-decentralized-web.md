@@ -4,6 +4,7 @@ toc: true
 title: "A Promising Horizon or A Misaligned Vision?"
 date: 2024-03-23 05:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/1Tlw6bJZGhi21y9v1oUGq9"
 ---
 
 Big Tech's grip on user data tightens by the day. The emergence of a new web3 network aims to shatter this paradigm, heralding a return to an internet that champions user autonomy and open-source principles. At the heart of this ambitious endeavor is Tegan Kline, CEO and co-founder of [Edge & Node](https://edgeandnode.com/), who envisions a digital landscape free from the clutches of centralized powerhouses that currently dictate data ownership and user engagement online. 
