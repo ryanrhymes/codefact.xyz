@@ -4,6 +4,7 @@ toc: true
 title: "The AI Gold Rush: Who's Striking It Rich"
 date: 2024-03-24 03:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/0sG1Gu0peC0GuNfBs4HXGN"
 ---
 
 The artificial intelligence (AI) revolution is reshaping the technology landscape at a breakneck pace, with companies across the AI technology stack witnessing unprecedented growth in market value. Since October 2022, the onset of the generative AI era marked by the launch of ChatGPT, around 100 companies have collectively amassed $8 trillion in value for their owners. This surge is emblematic of the broader stock market's enthusiasm but is significantly bolstered by the AI frenzy.

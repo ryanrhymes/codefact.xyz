@@ -4,6 +4,7 @@ toc: true
 title: "Policy-Driven vs. Market-Driven: EU's AI Strategies"
 date: 2024-03-24 04:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/4xaS8I3YUpGsPm4tzWzNqT"
 ---
 
 In a bold move to carve out a competitive edge in the global AI race, Europe has embarked on an ambitious journey with its EuroHPC project. This initiative, backed by a nearly €8bn investment, aims to turbocharge the region's AI startups by providing them with unprecedented access to supercomputing resources. At first glance, this strategy appears as a beacon of hope, potentially catapulting Europe from an AI early-stage startup phase to a significant player on the world stage. However, beneath the surface of this appealing proposition lies a complex web of challenges that could either make or break the project's long-term success.

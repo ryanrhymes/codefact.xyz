@@ -4,6 +4,7 @@ toc: true
 title: "Emad Mostaque Resigned: Decentralizing AI's Future"
 date: 2024-03-24 01:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/0eswGs5tged23abCu92TkM"
 ---
 
 In a move that reverberated across the artificial intelligence industry, Emad Mostaque, CEO and founder of Stability AI, stepped down from his pivotal role and the company's board. This decision highlights a pivotal juncture not only for Stability AI but for the broader AI landscape. Stability AI, the force behind the renowned image generation tool Stable Diffusion, finds itself at a crossroads, grappling with substantial operational and financial challenges. These include a significant drain on resources, evidenced by an estimated monthly expenditure of $8 million as of October 2023, and a high turnover of key talent. Amid these tumultuous times, Mostaque's departure underscores his staunch belief in a future where decentralized AI triumphs over the prevailing centralized models championed by industry giants.
