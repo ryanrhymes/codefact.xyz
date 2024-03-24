@@ -10,8 +10,10 @@ update_and_push() {
     {print}
   ' _config.yml > _config.yml.tmp && mv _config.yml.tmp _config.yml
 
-  # Add the modified file to the staging area
-  git pull origin main
+  # Prefer remote
+  git fetch origin main
+  git reset --hard origin/main
+
   git add _config.yml
   git commit -m "Update timestamp to $current_timestamp"
   git push origin main
