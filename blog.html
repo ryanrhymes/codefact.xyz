@@ -1,22 +1,27 @@
 ---
 layout: default
 bodyClass: "page-services"
+pagination: 
+  enabled: true
+  collection: 'posts'
+  sort_field: 'date'
+  sort_reverse: true
 ---
 
 <div class="strip">
     <div class="container pt-6 pb-6 pb-md-5">
 
-      <div class="col-12 col-md-12 mb-1">
+      <div class="col-12 col-md-12 mb-2">
         <div class="service service-summary">
         <div class="service-content">
-          {{ content }}
+          We offer sharp analysis and data-driven insights on key trends. If you are interested, please <a href="https://codefact.substack.com/welcome">subscribe</a> to receive weekly updates!
         </div>
         </div>
       </div>
 
       <h2>Daily Stream</h2>
 
-      {% for post in site.posts %}
+      {% for post in paginator.posts %}
         {% assign words = post.content | strip_html | number_of_words %}
         {% assign duration = words | divided_by: 200 | plus: 1 %}
       
@@ -33,7 +38,7 @@ bodyClass: "page-services"
           <!-- Image and podcast cell -->
           <div class="col-12 col-md-4">
             <div style="width: 100%; overflow: hidden;">
-              <a href="{{ post.url | relative_url }}"">
+              <a href="{{ post.url | relative_url }}">
                 <img src="{{ first_img_url }}" style="width: 100%; height: auto;"/>
               </a>
             </div>
@@ -58,6 +63,16 @@ bodyClass: "page-services"
           </div>
         </div>
       {% endfor %}
-  
+
+      <!-- Pagination Controls -->
+      <div class="text-center" style="margin: 3em 0 0 0;">
+        {% if paginator.previous_page %}
+            <a href="{{ paginator.previous_page_path }}" class="btn btn-primary" style="background-color: #007bff; color: white; padding: 10px 40px; text-decoration: none; border-radius: 5px; font-weight: bold; margin: 0 1em 0 1em;">Prev Page</a>
+        {% endif %}
+        {% if paginator.next_page %}
+            <a href="{{ paginator.next_page_path }}" class="btn btn-primary" style="background-color: #007bff; color: white; padding: 10px 40px; text-decoration: none; border-radius: 5px; font-weight: bold; margin: 0 1em 0 1em;">Next Page</a>
+        {% endif %}
+      </div>
+
     </div>
   </div>
