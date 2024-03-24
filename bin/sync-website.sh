@@ -4,15 +4,15 @@ update_and_push() {
   current_timestamp=$(date "+%Y-%m-%d %H:%M:%S")
   echo "Run sync task at $current_timestamp" 
 
+  # Prefer remote changes
+  git fetch origin main
+  git reset --hard origin/main
+
   # Update the last_updated field in _config.yml
   awk -v date="$current_timestamp" '
     /^last_updated:/ {$0="last_updated: \"" date "\""}
     {print}
   ' _config.yml > _config.yml.tmp && mv _config.yml.tmp _config.yml
-
-  # Prefer remote changes
-  git fetch origin main
-  git reset --hard origin/main
 
   # Update the timestamp
   git add _config.yml
