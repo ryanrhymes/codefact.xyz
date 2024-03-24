@@ -10,10 +10,11 @@ update_and_push() {
     {print}
   ' _config.yml > _config.yml.tmp && mv _config.yml.tmp _config.yml
 
-  # Prefer remote
+  # Prefer remote changes
   git fetch origin main
   git reset --hard origin/main
 
+  # Update the timestamp
   git add _config.yml
   git commit -m "Update timestamp to $current_timestamp"
   git push origin main
