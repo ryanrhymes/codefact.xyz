@@ -4,6 +4,7 @@ toc: true
 title: "Fintech's Funding Frost and the Thaw on the Horizon"
 date: 2024-03-21 09:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/0lRT4K1bQOFIOgmIZEKsaS"
 ---
 
 The fintech sector, which enjoyed a sunny spell of escalating investments reaching an all-time high of $143 billion in 2021, has recently navigated through a colder season. In 2023, investments plummeted by more than 50% to a chilling $43 billion, according to Crunchbase data. This downturn not only signifies a frost in venture capital enthusiasm but also marks a significant shift in the investment landscape, from a state of fervor to one of caution and recalibration. Despite this, as we peer over the horizon into 2024, there are warm currents of optimism suggesting a thaw, with certain fintech niches bracing for meaningful growth.

@@ -4,6 +4,7 @@ toc: true
 title: "Is the AI Funding Frenzy Just an Impending Burst?"
 date: 2024-03-21 06:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/3gdg8B6MgBsEke1NWvKcnO"
 ---
 
 2023 has been a paradoxical year in the venture capital landscape. On one hand, we've seen a broad downturn in venture investments, with the overall U.S. and global startup investments marking their lowest points since 2019 and 2017, respectively. On the other, AI-related startups, including behemoths like OpenAI and Anthropic, defied these trends, securing nearly $50 billion in funding. This stark contrast poses an intriguing question: How sustainable is this fervent interest and investment in the AI sector?
