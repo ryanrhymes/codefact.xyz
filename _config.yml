@@ -54,6 +54,7 @@ exclude:
   - LICENSE.md
   - LICENSE
   - README.md
+  - bin/
 
 feed_items: 50
 feed_update_period: daily
