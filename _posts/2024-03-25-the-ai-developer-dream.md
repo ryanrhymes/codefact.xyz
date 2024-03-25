@@ -2,7 +2,7 @@
 layout: post
 toc: true
 title: "Is Devin The AI Developer Dream?"
-date: 2024-03-25 01:00:00 +0200
+date: 2024-03-25 02:00:00 +0200
 categories: blog
 ---
 

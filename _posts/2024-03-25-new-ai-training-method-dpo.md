@@ -2,7 +2,7 @@
 layout: post
 toc: true
 title: "Direct Preference Optimization: New AI Training Method"
-date: 2024-03-25 02:00:00 +0200
+date: 2024-03-25 03:00:00 +0200
 categories: blog
 ---
 
