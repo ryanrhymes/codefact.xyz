@@ -4,6 +4,7 @@ toc: true
 title: "Memristor-Based Stochastic Neuro-Fuzzy Hardware"
 date: 2024-03-25 04:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/5h46actRP7t6XwKJdSCBNr"
 ---
 
 In [a recent paper](https://www.science.org/doi/10.1126/sciadv.adl3135) published in Science, researchers have unveiled a memristor-based neuro-fuzzy hardware that not only challenges but also surpasses the capabilities of conventional deep learning approaches. At its core, this innovation leverages the intricate complexities of memristor variability to forge a new path in neuro-symbolic artificial intelligence, showcasing unparalleled improvements in throughput, energy efficiency, and adaptability.
