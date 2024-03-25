@@ -4,6 +4,7 @@ toc: true
 title: "Direct Preference Optimization: New AI Training Method"
 date: 2024-03-25 03:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/6BgpDkw8eNEKjNyLeOjTul"
 ---
 
 A recently proposed approach known as [Direct Preference Optimization](https://arxiv.org/pdf/2305.18290.pdf) (DPO) is setting a new standard for training large language models (LLMs). This novel method is redefining efficiency and effectiveness in the AI domain, addressing the complex challenge of aligning machine intelligence with human expectations.

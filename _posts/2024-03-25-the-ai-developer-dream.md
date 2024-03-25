@@ -4,6 +4,7 @@ toc: true
 title: "Is Devin The AI Developer Dream?"
 date: 2024-03-25 02:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/3sFsjORI8AIxF56fiaM2FK"
 ---
 
 This week, the tech world buzzed with discussions about Devin, an AI proclaimed as the first AI software developer by Cognition AI. With its ability to autonomously solve software engineering tasks—from planning and coding to testing and implementation—Devin has certainly captured the imagination of investors, engineers, and the wider public alike. The promise of AI taking on roles traditionally reserved for highly-skilled professionals has both wowed and worried the tech community. But as we dive deeper, the line between what's currently achievable and future potentials begins to blur.
