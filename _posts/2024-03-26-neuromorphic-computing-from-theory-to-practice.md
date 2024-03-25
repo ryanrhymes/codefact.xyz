@@ -1,7 +1,7 @@
 ---
 layout: post
 toc: true
-title: "Neuromorphic computing"
+title: "Neuromorphic computing: From Theory to Practice"
 date: 2024-03-26 02:00:00 +0200
 categories: blog
 ---
