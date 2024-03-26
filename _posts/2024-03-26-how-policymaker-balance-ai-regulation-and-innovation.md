@@ -4,6 +4,7 @@ toc: true
 title: "AI Regulation Conundrum: A Call for Balance"
 date: 2024-03-26 05:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/3jen0AWVur35IccIxpRCMn"
 ---
 
 As the dawn of artificial intelligence (AI) reshapes the horizon of our technological landscape, the global dialogue pivots to a critical junction: how do we regulate a force potent enough to redefine humanity’s future? The emerging consensus suggests a cautious tread; the path is fraught with both unprecedented opportunity and speculative peril.

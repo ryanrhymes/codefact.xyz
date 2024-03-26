@@ -4,6 +4,7 @@ toc: true
 title: "AI Nationalism: The Quest for Technological Sovereignty"
 date: 2024-03-26 04:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/01MFvITIjZ6nl714vXVr8J"
 ---
 
 In the swiftly evolving terrain of global technology, artificial intelligence (AI) has become the battleground for what can aptly be dubbed "AI nationalism", as discussed in [an interesting article](https://www.economist.com/business/2024/01/01/welcome-to-the-era-of-ai-nationalism) on The Economist. Countries around the globe are engaging in a high-stakes race to develop national AI capabilities, emphasizing the strategic importance of AI in determining technological sovereignty. The year 2023 marked a series of ambitious moves by nations like the UAE, France, and India, each announcing significant investments and initiatives aimed at carving out their niche in the AI domain.

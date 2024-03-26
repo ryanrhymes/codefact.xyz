@@ -4,6 +4,7 @@ toc: true
 title: "Neuromorphic computing: From Theory to Practice"
 date: 2024-03-26 02:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/1GQE65wfZpabWmDix9fFyc"
 ---
 
 Neuromorphic computing stands at the intersection of technology and biology, embodying an innovative approach that draws inspiration from the most complex system known to us: the human brain. This burgeoning field promises to revolutionize the realms of artificial intelligence (AI), deep learning, and autonomous systems by emulating the structure and functionality of neurons and synapses. Its potential to surpass traditional computing limitations, such as those defined by Moore's Law, and edge closer to the holy grail of artificial general intelligence (AGI) is both exciting and profound. However, despite its promise, neuromorphic computing is still in its infancy, grappling with challenges that range from accuracy and software limitations to accessibility and the establishment of benchmarks.

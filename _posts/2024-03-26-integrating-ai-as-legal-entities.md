@@ -4,6 +4,7 @@ toc: true
 title: "Rethinking the Integration of AI as Legal Entities"
 date: 2024-03-26 03:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/2gHluI7Q2fc06SV2UXH7yZ"
 ---
 
 The legal system, a traditionally human-centric domain, stands on the brink of an unprecedented transformation. In [a paper](https://www-science-org.libproxy.helsinki.fi/doi/10.1126/science.adi8678) published in Science, Daniel J. Gervais and John J. Nay's discussion on the potential for artificial intelligence (AI) to enter the legal fold as non-human corporate entities opens up a myriad of opportunities and challenges. As AI's capabilities burgeon, surpassing human skills in various cognitive tasks, the notion of incorporating AI within the legal framework as zero-member Limited Liability Companies (LLCs) presents itself not just as a possibility, but an imminent reality.
