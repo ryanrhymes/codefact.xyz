@@ -4,6 +4,7 @@ toc: true
 title: "Examining Chain-of-Thought Reasoning in AI"
 date: 2024-03-25 05:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/4jcOYsj6eUJxUXkMUlrgIo"
 ---
 
 Large language models like ChatGPT have encountered a breakthrough in problem-solving with the adoption of [Chain-of-Thought](https://arxiv.org/abs/2201.11903) (CoT) reasoning. This technique, which mimics human problem-solving by breaking down tasks into sequential steps, has shown to significantly enhance the models' ability to tackle complex computational problems. Despite its success, the approach's broader implications and limitations warrant a closer look.
