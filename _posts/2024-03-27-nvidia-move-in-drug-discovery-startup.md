@@ -4,6 +4,7 @@ toc: true
 title: "Nvidia's Strategic Move into AI-Driven Drug Discovery"
 date: 2024-03-27 02:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/4nxcJHebHK8EA3hrJHWC8U"
 ---
 
 Nvidia has recently unveiled its bold stride into the realm of drug discovery, marking a significant pivot that could potentially reshape the pharmaceutical industry's landscape. Through its collaborations with major players like Amgen's [deCode](https://www.decode.com/) and [Recursion Pharmaceuticals](https://www.recursion.com/), alongside a strategic investment in AI-driven companies, Nvidia is not just dipping its toes but diving headfirst into the burgeoning field of AI-driven drug development.

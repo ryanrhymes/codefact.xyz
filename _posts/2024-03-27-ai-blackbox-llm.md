@@ -4,6 +4,7 @@ toc: true
 title: "The AI's Black Box Problem"
 date: 2024-03-27 03:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/7q3F3aUp1NLaU32qwzEukJ"
 ---
 
 Artificial intelligence, particularly in the form of large language models (LLMs) like ChatGPT, represents one of the most fascinating advancements in technology. Yet, this breakthrough comes with an intriguing paradox: the very creators of these AI systems struggle to fully comprehend how they operate. At the heart of these systems are neural networks, mathematical constructs that have been pivotal in scientific research and daily life for decades. Despite this long history, the intricacies of how neural networks function remain a perplexing mystery.

@@ -4,6 +4,7 @@ toc: true
 title: "Neuromorphic Computing vs. Deep Neural Networks"
 date: 2024-03-27 04:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/3tXZpMHCIdvvzCjUWAjW0O"
 ---
 
 Since we've already talked about quite a bit regarding neuromorphic computing this week, let's recap the key differences between these two technologies. Neuromorphic computing and deep neural networks are two distinct approaches to artificial intelligence (AI) and machine learning, each with its unique characteristics and goals.

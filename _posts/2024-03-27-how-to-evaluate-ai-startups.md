@@ -4,6 +4,7 @@ toc: true
 title: "How to Evaluate AI Startups?"
 date: 2024-03-27 04:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/49ewa5dYBtILDG17XnUiI1"
 ---
 
 AI startups, often enveloped in technical jargon and ambitious claims, require a nuanced approach to evaluation. The key lies in understanding not just the business model but the specific AI technologies at play. For instance, distinguishing between startups that develop their own AI models (i.e. AI Developers) and those that apply existing algorithms to new problems (i.e. AI Operators) is crucial. This differentiation sheds light on the startup's innovation level and its potential to contribute genuinely novel solutions to the market.
