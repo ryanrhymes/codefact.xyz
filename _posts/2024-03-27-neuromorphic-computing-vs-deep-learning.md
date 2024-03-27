@@ -1,7 +1,7 @@
 ---
 layout: post
 toc: true
-title: "How to Evaluate AI Startups?"
+title: "Neuromorphic Computing vs. Deep Neural Networks"
 date: 2024-03-27 04:00:00 +0200
 categories: blog
 ---
