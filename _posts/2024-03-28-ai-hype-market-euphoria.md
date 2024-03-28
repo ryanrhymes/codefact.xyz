@@ -4,6 +4,7 @@ toc: true
 title: "A Critical Look at the Market's Euphoria Over AI"
 date: 2024-03-28 03:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/2syQpU1KvkLpb0B749gP05"
 ---
 
 The stock market's recent record highs, fueled by optimism around AI, warrant a closer examination. The Federal Reserve's signal of impending interest rate cuts has only added to this enthusiasm, underscoring the market's confidence in the tech giants leading this charge. Their vast cash reserves and the seemingly boundless potential to monetize AI paint a picture of a future rich with innovation and prosperity. Reports, like the one from ARK Invest predicting a staggering $40tn boost to the global GDP from AI by 2030, feed into this narrative, likening AI's potential impact to that of electricity or the internet.

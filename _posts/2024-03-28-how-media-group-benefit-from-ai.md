@@ -4,6 +4,7 @@ toc: true
 title: "Media Companies: Embracing AI as a Complementary Force"
 date: 2024-03-28 03:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/1UGpoEXuzTfopzAMXQqSUw"
 ---
 
 The rapid evolution of AI tools promises to streamline operations, offering a beacon of efficiency and cost-saving measures for media companies under economic duress. Yet, as the landscape transforms, the intrinsic value of human insight and creativity remains a cornerstone, highlighting a complex relationship between machine intelligence and journalistic integrity.

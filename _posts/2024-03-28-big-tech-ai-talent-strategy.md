@@ -4,6 +4,7 @@ toc: true
 title: "How Sustainable Is Big Tech's Talent Strategy?"
 date: 2024-03-28 03:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/7DP43j94lsXRWKfDfe05vx"
 ---
 
 In the high-stakes world of artificial intelligence, a fascinating development unfolds as tech giants like Microsoft, Google, and Nvidia fiercely compete for the brightest minds in AI. This race is not just about securing a workforce; it's about defining the future of technology and, by extension, our world. Microsoft's recent strategic maneuver, hiring key talents from AI startup Inflection without acquiring the company, epitomizes this trend and raises significant questions about the sustainability and implications of such practices.

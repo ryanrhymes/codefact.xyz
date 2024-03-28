@@ -4,6 +4,7 @@ toc: true
 title: "European Companies Thrive Amid Economic Headwinds"
 date: 2024-03-28 02:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/6TKKAre8YPq5gTX3nc9YpX"
 ---
 
 In the face of a sluggish regional economy, characterized by high inflation and tighter borrowing conditions, Europe's fastest-growing companies are not just surviving; they're thriving. Acccording to the latest FT-Statista ranking, businesses across the continent are demonstrating significant resilience and innovation, despite the myriad challenges presented by the COVID-19 pandemic, geopolitical tensions, and an ongoing energy crisis.
