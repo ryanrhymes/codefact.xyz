@@ -4,6 +4,7 @@ toc: true
 title: "Amazon's $4 billion Bet on Anthropic"
 date: 2024-03-29 03:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/5af5CuMiaFLizbQITS4rjJ"
 ---
 
 Amazon has placed a significant bet on Anthropic, a leading AI company known for its cutting-edge models. By completing a planned investment of $4 billion, Amazon signals not just confidence in Anthropic's potential but also a clear strategic maneuver in the broader AI landscape.

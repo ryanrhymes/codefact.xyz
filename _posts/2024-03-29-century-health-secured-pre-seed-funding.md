@@ -4,6 +4,7 @@ toc: true
 title: "Century Health Secured $2 Million Pre-Seed Funding"
 date: 2024-03-29 03:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/7JEm6MRC68RU89FuO1Cr5G"
 ---
 
 [Century Health](https://century.health/) emerges as a beacon of innovation with its recent $2 million pre-seed funding. This startup is not merely another entrant in the tech space but a visionary company poised to leverage artificial intelligence in revolutionizing how we approach drug development and patient care, particularly for complex diseases like Alzheimer’s.

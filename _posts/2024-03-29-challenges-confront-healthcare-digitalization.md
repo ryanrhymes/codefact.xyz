@@ -4,6 +4,7 @@ toc: true
 title: "AI in Healthcare: Challenges for a Healthier Tomorrow"
 date: 2024-03-29 03:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/24bOxJ7EVrdDEn5cGntMN2"
 ---
 
 The healthcare industry stands on the brink of a transformative shift, driven by the potential of artificial intelligence (AI). This isn't just about introducing new gadgets into our hospitals and clinics; it's about a fundamental change in how we diagnose diseases, support patients, discover drugs, and manage the ever-growing burden of healthcare administration. Analysts in Europe and America have crunched the numbers, forecasting that AI could save hundreds of thousands of lives annually and potentially trim billions from healthcare spending. The excitement is palpable, and rightfully so, as we imagine a future with smarter stethoscopes, robotic surgeons, and AI systems capable of sifting through vast datasets to chat with us, wearing a convincingly human face.
