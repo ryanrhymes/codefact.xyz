@@ -34,17 +34,17 @@ bodyClass: "page-basic"
                     {% assign words = post.content | strip_html | number_of_words %}
                     {% assign duration = words | divided_by: 200 | plus: 1 %}
 
-                    <div class="row justify-content-start mb-2">
+                    <div class="row justify-content-start mb-3">
                         <hr style="margin: 0 0 1em 0;" />
 
                         <!-- Image cell -->
-                        <div class="col-12 col-md-7">
+                        <div class="col-12 col-md-6">
                             <div style="width: 100%; overflow: hidden;">
                                 <img src="{{ first_img_url }}" style="width: 100%; height: auto;"/>
                             </div>
                             </div>
                         <!-- Meta information and excerpt cell -->
-                        <div class="col-12 col-md-5" style="vertical-align: top;">
+                        <div class="col-12 col-md-6" style="vertical-align: top;">
                             <h2 class="service-title">
                                 <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
                             </h2>

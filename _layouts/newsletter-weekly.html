@@ -10,7 +10,7 @@ bodyClass: "page-basic"
                 <h2 class="title" style="margin-bottom:1em">{{ page.title }}</h2>
 
                 <!-- Editor's Note -->
-                <h2>Editor's Note</h2>
+                <h2 style="margin: 2em 0 0.5em 0;">Editor's Note</h2>
                 <hr style="margin: 0 0 1em 0;" />
 
                 <span style="font-style: italic;">
@@ -22,7 +22,7 @@ bodyClass: "page-basic"
                 {% for item in page.table_of_content %}
                     {% assign column = item.column %}
                     {% if column.name == "Cover Story" %}
-                        <h2>{{ column.name }}</h2>
+                        <h2 style="margin: 2em 0 0.5em 0;">{{ column.name }}</h2>
                         <hr style="margin: 0 0 2em 0;" />
                         {% assign post = site.posts | where: 'path', column.articles[0].path | first %}
                         {% assign first_img_url = "" %}
@@ -63,7 +63,7 @@ bodyClass: "page-basic"
 
                 {% for item in page.table_of_content offset:1 %}
                     {% assign column = item.column %}
-                    <h2>{{ column.name }}</h2>
+                    <h2 style="margin: 2em 0 0.5em 0;">{{ column.name }}</h2>
                     {% for post_entry in column.articles %}
                         {% assign post = site.posts | where: 'path', post_entry.path | first %}
                         {% assign first_img_url = "" %}
