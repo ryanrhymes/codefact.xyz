@@ -8,7 +8,7 @@ categories: blog
 
 OpenAI has thrown open the doors of ChatGPT to users without the need for an account, aiming to democratize access to this cutting-edge conversational AI. This strategic pivot seeks to widen the platform's appeal and accessibility, potentially inviting a new wave of users who value anonymity or those who have previously sidestepped the platform due to the barrier of registration. However, as with any significant shift, this new "ultra-free" access model introduces its own set of limitations and unanswered questions, particularly around the more restrictive content policies for users who choose to remain unregistered.
 
-![Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGS5eodG4fl0UJ97-MbukLcz5PcRsYh_BvTCWeOpgMFDsbHmpxZlsEWWsrtdR5a8Mp3zY&usqp=CAU "getty")
+![Image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-login-signup-page-on-smartphone-screen-feature.jpg "getty")
 
 For starters, the ultra-free version of ChatGPT delineates a clear line between the experiences of logged-in users and those accessing the platform anonymously. Non-account users will find themselves unable to save or share chats, use custom instructions, or enjoy other features tied to a persistent account. This bifurcation raises an important discussion about the value exchange between users and the platform: the convenience and added functionalities for those willing to share their data versus a more constrained experience for those who are not.
 
