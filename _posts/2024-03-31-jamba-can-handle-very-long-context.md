@@ -8,7 +8,7 @@ categories: blog
 
 AI21 Labs has unveiled a significant development: Jamba, a generative AI model that surpasses current standards in context handling capabilities. This model is not just another addition to the burgeoning collection of AI technologies; it represents a notable leap in computational efficiency and throughput for processing extensive texts.
 
-![Image](https://siliconangle.com/wp-content/blogs.dir/1/files/2024/03/66052fca0ce0e9f8cf49fd21_Jamba-Cover-Image.png "getty")
+![Image](https://i.gzn.jp/img/2024/03/29/ai21-labs-jamba/00_m.png "getty")
 
 Jamba can manage an impressive context window of up to 140,000 tokens, approximately 105,000 words or 210 pages of text, all on a single high-end GPU. This capability is a game-changer, especially when compared to other models like Meta’s Llama 2, which handles significantly smaller context windows. The secret behind Jamba's performance is its unique architecture, a hybrid of transformers and state space models (SSMs). This combination allows Jamba to undertake complex reasoning tasks efficiently and handle long sequences of data more effectively than its purely transformer-based counterparts.
 

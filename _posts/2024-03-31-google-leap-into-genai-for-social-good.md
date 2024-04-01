@@ -4,6 +4,7 @@ toc: true
 title: "Google.org's $20M Leap into Generative AI for Social Good"
 date: 2024-03-31 03:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/2bEdktWO0pfBO7iIJapFAC"
 ---
 
 Google.org, the philanthropic arm of Google, has unveiled a $20 million accelerator program dedicated to nurturing generative AI projects by nonprofits. Dubbed the Google.org Accelerator: Generative AI, this initiative is set to empower 21 nonprofits, including names like Quill.org and World Bank, with AI-driven tools designed to revolutionize fields from education to global development research.

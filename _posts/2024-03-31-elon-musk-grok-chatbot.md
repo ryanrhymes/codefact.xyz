@@ -4,6 +4,7 @@ toc: true
 title: "Musk's AI Dives into Controversy and Innovation"
 date: 2024-03-31 03:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/1bXK3jDJHeoAADFNIoifNk"
 ---
 
 Elon Musk's AI startup, xAI, has unveiled Grok, a chatbot that promises to shake up the digital conversational landscape. Unlike its predecessors, Grok brings a mix of wit and rebellion to the table, diving headlong into topics often deemed off-limits for its kind. With its ability to draw from X's exclusive real-time data, Grok stands out from the crowd, but not without raising a few eyebrows and plenty of questions about its role and impact.
