@@ -4,6 +4,7 @@ toc: true
 title: "Skyflow's AI Shift: A New Chapter in Data Privacy"
 date: 2024-03-31 03:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/6L3KtuiVs6MCser5AtqHAA"
 ---
 
 Skyflow is leading the charge in redefining the role of data privacy. The recent announcement of Skyflow's $30 million Series B extension, led by Khosla Ventures, not only underscores the company's growth trajectory but also highlights the increasing intersection of AI technologies and data privacy services.

@@ -4,6 +4,7 @@ toc: true
 title: "AI21 Labs' Jamba Can Handle Unprecedented Long Contexts"
 date: 2024-03-31 03:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/4pdRjFfu0jZrhd6qRyDkwt"
 ---
 
 AI21 Labs has unveiled a significant development: Jamba, a generative AI model that surpasses current standards in context handling capabilities. This model is not just another addition to the burgeoning collection of AI technologies; it represents a notable leap in computational efficiency and throughput for processing extensive texts.
