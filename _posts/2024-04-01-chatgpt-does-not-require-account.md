@@ -4,6 +4,7 @@ toc: true
 title: "OpenAI's ChatGPT Goes Account-Free Finally"
 date: 2024-04-01 03:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/3BAGSXNLqDY5ew80ehbXk7"
 ---
 
 OpenAI has thrown open the doors of ChatGPT to users without the need for an account, aiming to democratize access to this cutting-edge conversational AI. This strategic pivot seeks to widen the platform's appeal and accessibility, potentially inviting a new wave of users who value anonymity or those who have previously sidestepped the platform due to the barrier of registration. However, as with any significant shift, this new "ultra-free" access model introduces its own set of limitations and unanswered questions, particularly around the more restrictive content policies for users who choose to remain unregistered.

@@ -4,6 +4,7 @@ toc: true
 title: "What Drives AI Integration into Healthcare?"
 date: 2024-04-01 03:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/08d6iiiyYOYsAtEERMU6og"
 ---
 
 The healthcare sector, known for its patchwork digital transformation and reliance on outdated technologies, stands on the cusp of a major overhaul thanks to AI. From administrative cost-cutting to predictive diagnostics and patient care improvements, AI seems poised to address long-standing inefficiencies and usher in a new era of healthcare.

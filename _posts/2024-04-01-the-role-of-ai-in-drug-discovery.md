@@ -4,6 +4,7 @@ toc: true
 title: "The Role of AI in Drug Discovery"
 date: 2024-04-01 03:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/6X8T77vsUPmRIkf0pZ6DDC"
 ---
 
 The remarkable success of Google DeepMind's AlphaFold in predicting protein structures has been a game-changer, symbolizing a broader shift towards leveraging AI's immense computational power to unlock mysteries within vast sets of biological data. This transformation extends to generating novel drug development hypotheses, refining targets for therapeutic intervention, and accelerating the discovery of biomarkers for elusive diseases such as long COVID and Alzheimer's. Yet, as we stand on the brink of what could be a revolution in drug discovery, it's crucial to temper our expectations with a dose of reality, acknowledging the timelines and challenges that lie ahead.

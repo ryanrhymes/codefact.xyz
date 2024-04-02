@@ -4,6 +4,7 @@ toc: true
 title: "Can AI Transform Healthcare Without Compromising Privacy?"
 date: 2024-04-01 03:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/414xk5p44t1GkWOmUK0z2g"
 ---
 
 The Chan Zuckerberg Initiative's ambitious goal to leverage artificial intelligence (AI) to conquer all diseases is both exhilarating and daunting. As the frontiers of AI in healthcare expand—from enhancing diagnostics and patient care to accelerating drug development—the potential for transformative change in global health systems is undeniable. Yet, this bright future is shadowed by substantial ethical considerations that demand careful navigation.
