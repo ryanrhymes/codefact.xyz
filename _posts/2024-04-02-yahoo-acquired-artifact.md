@@ -4,6 +4,7 @@ toc: true
 title: "Yahoo Acquires AI-Powered News Startup Artifact"
 date: 2024-04-02 03:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/40IDB1wrnaDp9p04j6KpuB"
 ---
 
 Yahoo has announced the acquisition of Artifact, the AI-powered news application founded by Instagram co-founders Kevin Systrom and Mike Krieger. This acquisition marks a notable development in the media and technology landscape, reflecting Yahoo's commitment to leveraging advanced AI to enhance user experience and content personalization.

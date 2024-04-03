@@ -4,6 +4,7 @@ toc: true
 title: "Read AI Expands to Email and Message Summarization"
 date: 2024-04-02 03:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/4OMSuoYyfHK4tLLV8QTKMR"
 ---
 
 The allure of AI-powered tools to streamline our inundation of communications—be it through meetings, emails, or messages—is undeniable. Read AI, under the visionary leadership of David Shim, stands at the forefront of this wave, promising to transform our digital interactions with its recent foray into the realm of email and message summarization.

@@ -4,6 +4,7 @@ toc: true
 title: "Murky Waters of Reverse Searches and Privacy Rights"
 date: 2024-04-02 03:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/0kQwnBvwi6lTlJMwmRWaeV"
 ---
 
 The growing reliance of U.S. police departments on "reverse" searches presents a significant challenge to the balance between effective law enforcement and the safeguarding of individual privacy rights. These searches, which demand vast amounts of user data from tech companies to identify criminal suspects, have stirred a contentious debate over their constitutionality and ethical implications.

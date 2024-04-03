@@ -4,6 +4,7 @@ toc: true
 title: "OctoStack Aims to Revolutionize Private AI Deployments"
 date: 2024-04-02 03:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/5AU2sO2L8oDc78XPbJxRoB"
 ---
 
 OctoAI's latest announcement heralds a significant advancement for enterprises looking to harness the power of AI while maintaining strict control over their data and computational resources. The unveiling of OctoStack, an end-to-end solution designed for the deployment of generative AI models in private clouds, marks a pivotal shift in OctoAI's strategic direction—from its original focus on model optimization to now facilitating secure, private AI deployments.
