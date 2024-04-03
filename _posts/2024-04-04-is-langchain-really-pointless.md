@@ -1,7 +1,7 @@
 ---
 layout: post
 toc: true
-title: "Is Langchain Really A Pointless Tool?"
+title: "Is Langchain Really Pointless?"
 date: 2024-04-04 03:00:00 +0200
 categories: blog
 ---
