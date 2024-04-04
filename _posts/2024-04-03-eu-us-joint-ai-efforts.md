@@ -4,7 +4,7 @@ toc: true
 title: "The Implications of EU-US Collaboration on AI"
 date: 2024-04-03 03:00:00 +0200
 categories: blog
-podcast: "https://open.spotify.com/embed/episode/14XNNGCHmvZdoUhkcvqsjR"
+podcast: "https://embed.acast.com/codefact/660e5c702f834f0017e7bf51"
 ---
 
 The impending cooperation between the European Union (EU) and the United States (US) on AI regulation and development marks a significant milestone. The forthcoming announcement at the EU-US Trade and Technology Council (TTC) meeting encapsulates more than just a bilateral agreement; it represents a confluence of visions for the future of AI, underpinned by shared values and mutual goals.

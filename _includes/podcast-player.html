@@ -1,0 +1,9 @@
+{% if include.article.podcast %}
+    {% if include.article.podcast contains 'open.spotify.com' %}
+        <iframe style="border-radius:12px" src="{{ include.article.podcast }}?utm_source=generator" width="100%" height="80px" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    {% elsif include.article.podcast contains 'embed.acast.com' %}
+        <iframe src="{{ include.article.podcast }}" frameBorder="0" width="100%" height="80px"></iframe>
+    {% else %}
+        <p style="font-weight: bold; color: red;">Podcast Not Supported!</p>
+    {% endif %}
+{% endif %}

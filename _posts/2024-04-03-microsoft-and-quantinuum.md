@@ -4,7 +4,7 @@ toc: true
 title: "Beyond the Noisy Era into Practical Quantum Computing"
 date: 2024-04-03 03:00:00 +0200
 categories: blog
-podcast: "https://open.spotify.com/embed/episode/4nJIf5lrEbLQQz5M5KOLWS"
+podcast: "https://embed.acast.com/codefact/660e5c702f834f0017e7bf51"
 ---
 
 Microsoft and Quantinuum have unveiled a [breakthrough](https://quantum.microsoft.com/en-us/explore#Demonstration-of-logical-qubits-and-repeated-error-correction-with-better-than-physical-error-rates) in quantum error correction. This isn't just another incremental step; it's a giant leap that promises to push the bounds of quantum computing beyond the limitations that have so far restrained its practical application. By leveraging Quantinuum’s ion-trap hardware and Microsoft’s pioneering qubit-virtualization system, the team has conducted over 14,000 experiments without encountering a single error. This achievement is groundbreaking, not merely for the flawless execution of thousands of experiments but for the ability to correct errors in logical qubits without destroying them.
