@@ -4,7 +4,6 @@ toc: true
 title: "Ghost Autonomy Shuts Down Due to Funding Challenges"
 date: 2024-04-04 03:00:00 +0200
 categories: blog
-podcast: "https://open.spotify.com/embed/episode/3XFwVzuNpMu0Z9RyFNFOOn"
 ---
 
 Startups like Ghost Autonomy have embarked on ambitious journeys to transform how we envision transportation. Founded in 2017 with a bold vision to equip privately owned vehicles with autonomous driving capabilities, Ghost Autonomy sought to redefine road safety and efficiency. Despite raising nearly $220 million and achieving substantial technical innovations, the startup recently announced the cessation of its operations—a development that prompts a closer examination of the hurdles faced by pioneers in this field.
