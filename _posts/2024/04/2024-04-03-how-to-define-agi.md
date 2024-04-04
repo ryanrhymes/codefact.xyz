@@ -4,7 +4,7 @@ toc: true
 title: "The Complex Terrain of Artificial General Intelligence"
 date: 2024-04-03 03:00:00 +0200
 categories: blog
-podcast: "https://embed.acast.com/codefact/660e5c702f834f0017e7bf53"
+podcast: "https://open.spotify.com/embed/episode/4OeJDGHhIE0WyFopts2sZF"
 ---
 
 The concept of Artificial General Intelligence (AGI) remains one of the most captivating yet contentious topics in the realm of technology and artificial intelligence. At the heart of the debate is the question of what exactly AGI is and how we can recognize its advent. Amidst a plethora of definitions ranging from Turing’s indistinguishable conversational abilities to modern-day practical tests like making a cup of coffee in any average home, the tech industry and academia seem to be at a crossroads. Notably, Jensen Huang, CEO of Nvidia, recently posited that AGI could be defined as a program capable of performing 8% better than humans on specific tests, such as bar exams or logic quizzes.
