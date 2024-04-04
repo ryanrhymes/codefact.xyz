@@ -4,6 +4,7 @@ toc: true
 title: "Google Considers Introducing AI-Powered Premium Search"
 date: 2024-04-04 03:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/17dKQwiyERGUxSEBxLmxRc"
 ---
 
 Google is contemplating a seismic shift in its business model by introducing a premium, AI-powered search feature. This would mark the first time Google has placed any of its core products—specifically, its search engine—behind a paywall. The potential introduction of a paid service within its search engine represents a pivotal moment not just for Google, but for the digital world at large.
