@@ -4,7 +4,7 @@ toc: true
 title: "Is Langchain Really Pointless?"
 date: 2024-04-04 03:00:00 +0200
 categories: blog
-podcast: "https://embed.acast.com/codefact/660e5c702f834f0017e7bf50"
+podcast: "https://open.spotify.com/embed/episode/3XFwVzuNpMu0Z9RyFNFOOn"
 ---
 
 For large language models and generative AI, tools and frameworks are sprouting up with the promise of simplifying the development process, making it more accessible and efficient. One such tool that has garnered attention (and its fair share of criticism) is Langchain. While some laud its potential to democratize AI development, a closer examination reveals that Langchain might be more of a mirage in the desert of AI tooling than the oasis it purports to be.
