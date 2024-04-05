@@ -4,6 +4,7 @@ toc: true
 title: "The Core Issue Behind the VC Fundraising Slump"
 date: 2024-04-05 03:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/2xEv5DTNm3O6041COmx4uv"
 ---
 
 In recent years, a notable trend has emerged in the venture capital (VC) industry: a marked slowdown in fundraising. Venture capital firms, once the engine of record-breaking investment, have found it increasingly challenging to secure capital from institutional investors. This shift has profound implications for start-ups, as access to venture capital is a vital catalyst for growth in the early stages of a business. So, what lies at the heart of this trend?

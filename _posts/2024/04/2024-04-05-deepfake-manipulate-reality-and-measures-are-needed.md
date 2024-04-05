@@ -4,6 +4,7 @@ toc: true
 title: "Deepfakes: The Alarming Ease of Manipulating Reality"
 date: 2024-04-05 03:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/7CURbN9M8RrKQPvOnPYYr2"
 ---
 
 The proliferation of deepfake technology has become a major concern in our digital age. Deepfakes, which refer to manipulated media that use artificial intelligence to create hyper-realistic videos or images of individuals saying or doing things they never did, pose a significant threat to information integrity and personal privacy. As an expert in the field, I believe that the question of how easily deepfakes can be created and distributed, and what measures can be taken to prevent this, is of paramount importance.

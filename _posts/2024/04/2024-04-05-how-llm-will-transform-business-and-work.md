@@ -4,6 +4,7 @@ toc: true
 title: "How Will LLMs Transform Business and Work"
 date: 2024-04-05 03:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/7ugfJOOuJTftD3I0jrKHp6"
 ---
 
 The last few years have seen an intense interest in Artificial Intelligence and large language models in science, business, and media. While some view this fascination as an unnecessary distraction, others see it as the leading edge of an epochal transformation. In this column, I will argue that the integration of conversational AI into our lives is the next generational technological shift, with far-reaching consequences beyond what we experienced with the adoption of spreadsheets.

@@ -4,6 +4,7 @@ toc: true
 title: "Decoding the Impact of AI on Technology Jobs"
 date: 2024-04-05 03:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/76hFtnp7Ulnlen7JLMhLTA"
 ---
 
 As the debate over artificial intelligence and its impact on technology jobs gathers momentum, the actions of key industry players, such as the AI-Enabled ICT Workforce Consortium, shed light on their intentions towards the future workforce. In this column, we delve deeper into the consortium's efforts to understand the effect of AI on specific technology jobs and the significance of their choices.
