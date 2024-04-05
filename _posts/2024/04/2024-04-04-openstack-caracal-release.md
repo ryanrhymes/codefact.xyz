@@ -4,6 +4,7 @@ toc: true
 title: "OpenStack's Releases Caracal Provides to Support AI"
 date: 2024-04-04 03:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/1AKsbJ3EikSoyUs2iNUWBa"
 ---
 
 OpenStack marks a significant milestone with the release of its 29th version, 'Caracal'. This version is not just another update; it's a bold stride into the future of AI and high-performance computing (HPC) workloads, signifying a pivotal moment for enterprises navigating the complexities of cloud management and data sovereignty.
