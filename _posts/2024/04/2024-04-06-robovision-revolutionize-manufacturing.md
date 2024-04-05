@@ -1,7 +1,7 @@
 ---
 layout: post
 toc: true
-title: "Robovision Aims to Revolutionize Manufacturing and Agriculture"
+title: "Robovision Revolutionizes Manufacturing and Agriculture"
 date: 2024-04-06 03:00:00 +0200
 categories: blog
 ---
