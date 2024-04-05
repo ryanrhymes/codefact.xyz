@@ -14,7 +14,7 @@ In recent years, a notable trend has emerged in the venture capital (VC) industr
 
 According to PitchBook's data, a private markets data provider, venture capital firms raised just $9.3bn in the first three months of 2023 in the US, a far cry from the bountiful $555bn they amassed in 2021 – a year already noted for being one of the worst for fundraising since 2016.
 
-The root cause of this trend is that LPs need to realize returns on their venture capital investments in order to re-deploy their capital into fresh opportunities. The absence of a dynamic exit market restricts their ability to do so, ultimately leading to slowed fundraising and deal-making activity. The text predicts that improvement in the exit market is essential to alleviate the lingering challenges for VC fundraising.
+The root cause of this trend is that LPs need to realize returns on their venture capital investments in order to re-deploy their capital into fresh opportunities. The absence of a dynamic exit market restricts their ability to do so, ultimately leading to slowed fundraising and deal-making activity. The article predicts that improvement in the exit market is essential to alleviate the lingering challenges for VC fundraising.
 
 The severity and persistence of this trend mark a shift in the venture capital landscape. The era of megafunds, characterized by large, $5bn-$10bn vehicles, has come to a close, replaced by a focus on helping existing portfolio companies reach exit readiness rather than investing in new entities.
 
