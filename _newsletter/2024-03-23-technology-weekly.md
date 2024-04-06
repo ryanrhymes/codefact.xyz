@@ -1,7 +1,7 @@
 ---
 layout: newsletter-weekly
 toc: true
-title: "Technology Weekly: March 17-23, 2024"
+title: "Technology Weekly: March 23, 2024"
 date: 2024-03-23 14:00:00 +0200
 
 table_of_content:
