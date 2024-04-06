@@ -4,6 +4,7 @@ toc: true
 title: "What Hinders VC's Ability to Identify and Foster Unicorns"
 date: 2024-04-06 03:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/26QBm3lBFAoe9lz63xLOFa"
 ---
 
 Venture capital (VC) has long been at the forefront of fueling groundbreaking innovations and economic growth. However, amid increasing pressure from Limited Partners (LPs) to mitigate risk in their investments, the VC landscape has seen an influx of individuals wired to identify risk and follow established patterns. Yet, a relentless pursuit of risk mitigation presents a significant challenge to the VC sector - it often hampers the ability to accurately identify unicorn-capable founders, ultimately resulting in missed opportunities and mediocre outcomes. In this column, I argue that the obsession with risk mitigation in VC is not merely incompatible with the role but also a root cause of missed investments.

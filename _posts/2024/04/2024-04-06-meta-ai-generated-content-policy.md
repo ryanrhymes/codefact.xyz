@@ -4,6 +4,7 @@ toc: true
 title: "Meta Requires Explicit Label on AI-Generated Content"
 date: 2024-04-06 03:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/7swCQvGhmFVk7bp4oKpqTL"
 ---
 
 The proliferation of AI-generated content, particularly deepfakes and manipulated media, has raised growing concerns over authenticity, trust, and accountability in the digital world. In response to these challenges, Meta, the world's leading social media platform, has announced plans to update its AI-generated content policy by introducing a "Made with AI" label beginning in May. In this article, we analyze the significance and implications of this update by focusing on the question of how Meta should determine whether AI-generated content should be labeled and who should be responsible for disclosing AI tool usage.

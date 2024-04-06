@@ -4,6 +4,7 @@ toc: true
 title: "Robovision Revolutionizes Manufacturing and Agriculture"
 date: 2024-04-06 03:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/48j2Epk56EhhSiwXnbR2oc"
 ---
 
 Manufacturing and agriculture industries are confronted with an escalating challenge in today's market: labor shortages. In response, AI-driven automation is quickly becoming the go-to solution, and one Belgian startup, Robovision, is making a significant impact in this arena with its innovative computer vision solutions tailored for both industries.

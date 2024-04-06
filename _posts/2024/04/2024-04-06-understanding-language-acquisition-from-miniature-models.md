@@ -4,6 +4,7 @@ toc: true
 title: "Understanding Language Acquisition from Mini Models"
 date: 2024-04-06 03:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/0Oupbr3N5Q8Xkz5uNEtcgZ"
 ---
 
 As artificial general intelligence continues to advance, language models have emerged at the forefront of groundbreaking developments. From chatbots that mimic human conversation to sophisticated question answering systems, these models have pushed the boundaries of machine understanding and communication. In this article, we delve deeper into the intricacies of language models by focusing on a crucial question: What valuable insights can we gain about the relationship between model size, layers, and neurons in relation to language acquisition?
