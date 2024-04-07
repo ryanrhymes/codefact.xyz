@@ -4,6 +4,7 @@ toc: true
 title: "Nvidia's RTX Enables Creating Personalized AI Assistants"
 date: 2024-04-07 03:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/3Tk2LTAkYFshw2uWOZQupF"
 ---
 
 Nvidia's Chat with RTX offers users the unique ability to create personalized AI assistants on their laptops or computers instead of relying on cloud-based services. This trend-setting technology presents several advantages, including faster response times, enhanced privacy, and the flexibility to access local files. However, a crucial consideration for anyone wishing to harness the power of Chat with RTX is the system requirements and GPU compatibility.

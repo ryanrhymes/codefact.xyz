@@ -4,6 +4,7 @@ toc: true
 title: "Edge AI: Multimodal Processing and Open Architecture"
 date: 2024-04-07 03:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/6SMpCTfWfS68y3z1Y42y50"
 ---
 
 SiMa.ai, a pioneering Silicon Valley-based startup, is driving innovation in the edge AI market with its latest system-on-chip (SoC) product—the second-generation ML platform. As the digital world shifts towards decentralized computing, SiMa.ai's groundbreaking technology is perfectly positioned to cater to the evolving needs of industries spanning various sectors.

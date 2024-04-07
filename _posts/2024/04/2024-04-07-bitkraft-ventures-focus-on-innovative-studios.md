@@ -4,6 +4,7 @@ toc: true
 title: "Bitkraft Ventures Raises $275M to Invest on Innovative Studios"
 date: 2024-04-07 03:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/0LV2hVZLfIfcheaC9XIb3c"
 ---
 
 The gaming industry is undergoing a transformative era, fueled by technological advancements, increasing user base, and innovative business models. One leading investor at the forefront of this shift is Bitkraft Ventures, a Denver-based games investor with European founders. Bitkraft recently announced its plans to raise a third fund, and the question at hand is: what is the focus of Bitkraft Ventures' third fund, and in which gaming studios and platforms will it invest?

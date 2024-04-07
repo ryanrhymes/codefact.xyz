@@ -4,9 +4,10 @@ toc: true
 title: "Legal Implications of Apple Allowing Retro Game Emulators"
 date: 2024-04-07 03:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/7smRxonPtvQQfK48uVlZQl"
 ---
 
-Apple's recent update to its App Store rules has opened up a new avenue for retro gaming on iPhone and iPad: the sale of retro console game emulators and their accompanying titles. Yet, the implementation of these new rules has left developers and consumers alike in a legal gray area concerning copyright infringement (Apple, 2023).
+Apple's recent update to its App Store rules has opened up a new avenue for retro gaming on iPhone and iPad: the sale of retro console game emulators and their accompanying titles. Yet, the implementation of these new rules has left developers and consumers alike in a legal gray area concerning copyright infringement.
 
 ![Image](https://techcrunch.com/wp-content/uploads/2024/01/app-store-2024-v1.jpg?w=1390&crop=1 "getty")
 
