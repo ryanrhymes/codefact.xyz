@@ -4,6 +4,7 @@ toc: true
 title: "Apple's Battle With Masimo on the Scope of ITC's Jurisdiction"
 date: 2024-04-08 03:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/2bhLbppn2EFo14LgNlSIHo"
 ---
 
 In a landmark case that has garnered the attention of the technology industry, Apple is challenging the International Trade Commission's (ITC) decision to ban the sale of its Apple Watch Series 9 and Ultra 2 in the United States due to alleged infringement of Masimo's pulse oximetry patents. Apple's arguments, as presented in its appeal to the Federal Circuit, revolve around Masimo's standing to bring the complaint and the definition of the term "articles" as used in the relevant ITC statute.

@@ -4,6 +4,7 @@ toc: true
 title: "Separating Fact from Fiction: Tesla's Robotaxi Announcement"
 date: 2024-04-08 03:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/67EjOeeA19U9usocvIr21k"
 ---
 
 Elon Musk's recent revelation about Tesla's long-awaited robotaxi has once again placed the autonomous vehicle industry under the spotlight. Musk, known for his audacious claims, has been touting the possibilities of a Tesla robotaxi since quite some time ago, yet the capabilities and timeline of this technological marvel remain shrouded in ambiguity. In this article, we scrutinize Musk's latest robotaxi announcement to separate fact from fiction.
