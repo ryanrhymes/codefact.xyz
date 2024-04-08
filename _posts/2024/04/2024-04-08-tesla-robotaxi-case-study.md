@@ -4,6 +4,7 @@ toc: true
 title: "Challenges of Tesla's Autonomous Robotaxis"
 date: 2024-04-08 03:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/2afcyML8lFakRT6tvIymv6"
 ---
 
 Autonomous vehicles have emerged as a game-changer in the transportation sector, offering numerous benefits such as increased safety, reduced congestion, and higher efficiency. Among the various applications of autonomous vehicles, robotaxis have gained significant attention due to their potential to revolutionize urban transportation. Tesla, an industry leader in electric vehicles and clean energy solutions, is also aiming to make a significant impact in the robotaxi market. However, as the text suggests, Tesla faces several challenges in its quest to offer fully self-driving robotaxis to the public.

@@ -4,7 +4,6 @@ toc: true
 title: "The Impact of AI-generated Content on Google's Ngram"
 date: 2024-04-08 02:00:00 +0200
 categories: blog
-podcast: "https://open.spotify.com/embed/episode/2afcyML8lFakRT6tvIymv6"
 ---
 
 Google Books, the world's largest digital library, is a treasure trove of knowledge for academics and researchers. Its vast collection of digitized texts, dating back to the 1500s, offers an unparalleled insight into the evolution of human knowledge and language use. However, recent reports suggest that low-quality and potentially AI-generated content on Google Books could compromise the accuracy and reliability of Google's language tracking tool, Ngram.
