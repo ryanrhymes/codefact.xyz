@@ -4,6 +4,7 @@ toc: true
 title: "Fair Compensation for the Unseen Laborers Behind AI"
 date: 2024-04-09 03:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/1g8iqHJBRYSI3pF4VOBm9k"
 ---
 
 As the world eagerly embraces the potential of artificial intelligence, it's crucial not to forget the human laborers behind these advanced technologies. In this article, I will argue that ensuring fair compensation and recognition for these individuals is essential for creating a thriving, sustainable, and equitable digital economy.

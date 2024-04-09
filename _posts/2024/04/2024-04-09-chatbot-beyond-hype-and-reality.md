@@ -4,6 +4,7 @@ toc: true
 title: "Debates Beyond the Hype and Reality of Chatbot"
 date: 2024-04-09 03:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/1vaxsptxsqCrQ3BfSRSC6D"
 ---
 
 Artificial Intelligence has long been a subject of fascination and debate. From its humble beginnings in research labs to its current prominence in tech giants and startups, AI has captured the imagination of the world. However, it is vital to maintain a nuanced perspective on AI's current state and future potential. This article focuses on the most significant question in the ongoing debate: How might the conversation around AI shift in the future, and what potential developments or milestones might indicate progress towards artificial general intelligence?

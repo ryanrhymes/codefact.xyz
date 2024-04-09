@@ -4,6 +4,7 @@ toc: true
 title: "Artificial Intelligence and Biological Threats"
 date: 2024-04-09 03:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/2UQnlM5tV1AvlKARMT4Fuw"
 ---
 
 Artificial intelligence has rapidly transformed industries and fields, yet its potential misuse, particularly in the domain of biological threats, has raised significant concerns among experts and policymakers. The [recent experiments](https://www.rand.org/pubs/research_reports/RRA2977-2.html) by RAND Corporation and OpenAI aimed to shed light on this issue, but their findings should be viewed in the context of their limitations.
