@@ -4,6 +4,7 @@ toc: true
 title: "The GDPR's Purpose Limitation Principle Is Under Attack"
 date: 2024-04-10 03:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/2vQ9TFtfWaiwVMhWNnCabC"
 ---
 
 The European Union's General Data Protection Regulation (GDPR), enacted in May 2018, represents a cornerstone of data protection and privacy in Europe. With the rapid evolution of technology, particularly in the realm of artificial intelligence, the GDPR's core principles, particularly the purpose limitation principle, are faced with increasing pressure from industry lobbyists seeking expanded use of personal data. In this article, we delve into the significance of the purpose limitation principle within the GDPR and its potential implications if it were to be weakened.

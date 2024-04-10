@@ -4,6 +4,7 @@ toc: true
 title: "Can Symbolic AI Really Compete with Deep Learning?"
 date: 2024-04-10 03:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/1TlNgU1oJ68JAmZvMs6nsR"
 ---
 
 Some people argue that it's becoming increasingly clear that our current approaches to building AI models are not sustainable, nor are they adequately addressing the ethical concerns raised by the technology. Deep learning, the dominant approach to AI research over the past decade, has revolutionized fields from image and speech recognition to natural language processing. But its limitations—such as the enormous amounts of data, time, and energy required to produce useful outcomes, and the lack of transparency and explainability—are becoming increasingly apparent.

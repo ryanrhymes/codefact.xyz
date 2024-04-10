@@ -4,6 +4,7 @@ toc: true
 title: "Will AI Surpass Human Next Year? Musk Says Yes!"
 date: 2024-04-10 03:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/4TDd8NataYdioqiZ9lzqcU"
 ---
 
 Elon Musk has made a bold prediction about the future of artificial intelligence: new AI models will surpass human intelligence by the end of next year. This prediction, which comes as a notable shift from his previous stance calling for a pause in advanced AI development, underscores the rapid pace of progress in the field and the significant implications it has for society and humanity.

@@ -4,6 +4,7 @@ toc: true
 title: "Meta Confirms That Its Llama 3 Is Coming in Next Month"
 date: 2024-04-10 03:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/5TV9nzfS9pitpxt1jYR4TO"
 ---
 
 Meta is making a bold move in the generative AI landscape with its next-generation language model, Llama 3. Aiming to compete with market leaders such as OpenAI's ChatGPT, Meta plans to bring advanced capabilities and innovative features to the generative AI landscape. In this article, we delve into the promised improvements and their potential impact on the market.
