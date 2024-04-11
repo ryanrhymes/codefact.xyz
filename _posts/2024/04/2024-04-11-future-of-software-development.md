@@ -4,6 +4,7 @@ toc: true
 title: "Fture of Software Development: Autonomous Coding"
 date: 2024-04-11 03:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/4Gh6Kb4hlTzwlnz6Z2gn1e"
 ---
 
 Software development, an ever-evolving domain of creativity, innovation, and intellectual challenge, is on the brink of a new revolution: the emergence of autonomous coding tools. One such game-changer, Devin AI, has recently taken center stage as the latest entrant in this burgeoning field. Boasting unparalleled capabilities, Devin purports to perform all coding tasks autonomously, from building websites from the ground up to fixing bugs and even refining its own language model.

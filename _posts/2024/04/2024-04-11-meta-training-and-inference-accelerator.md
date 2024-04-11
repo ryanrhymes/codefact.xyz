@@ -4,6 +4,7 @@ toc: true
 title: "Meta's Meta Training and Inference Accelerator"
 date: 2024-04-11 03:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/6ZJCpvLUYfzp9z5Z7SvK2u"
 ---
 
 Meta has recently introduced the next-generation Meta Training and Inference Accelerator (MTIA), a custom chip designed for AI training and inference tasks in Meta's data centers, primarily for ranking and recommending display ads on Meta's properties. This announcement positions Meta to challenge competitors in the generative AI space, where Google, Amazon, and Microsoft have already established a presence with their custom chip offerings. In this article, we will explore Meta's current applications of the MTIA and its future plans for generative AI initiatives.

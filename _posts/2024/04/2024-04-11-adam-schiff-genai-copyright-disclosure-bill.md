@@ -4,6 +4,7 @@ toc: true
 title: "Adam Schiff's New Bill on Disclosing Copyrighted Data"
 date: 2024-04-11 03:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/61mcsg7k3GuEacgPXtJr6x"
 ---
 
 The meteoric rise of Generative Artificial Intelligence (AI) has ignited innovation across industries and created new opportunities. However, this advanced technology presents complex challenges, particularly regarding intellectual property (IP) protection. One such challenge is the use of copyrighted materials in AI training datasets, an issue that demands attention and resolution.

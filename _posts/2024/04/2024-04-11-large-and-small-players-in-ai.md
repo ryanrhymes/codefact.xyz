@@ -4,6 +4,7 @@ toc: true
 title: "Large and Small Players in the AI Battleground"
 date: 2024-04-11 03:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/1q8HqhTJ2bCoaQz58A10GW"
 ---
 
 As the world wrestles with the evolving dynamics of the Artificial Intelligence (AI) industry, a crucial question lingers: How does the organization and structure of AI research labs shape their capacity to cultivate groundbreaking innovations, and what unique advantages do smaller firms and startups bring to the table?
