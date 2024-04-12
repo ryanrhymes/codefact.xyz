@@ -4,7 +4,7 @@ toc: true
 title: "Ukraine's Centre of Operations for Threats Assessment"
 date: 2024-04-12 03:00:00 +0200
 categories: blog
-podcast: ""
+podcast: "https://open.spotify.com/embed/episode/2erMTONzRgcLfdz3lO6Jud"
 ---
 
 The ongoing conflict between Ukraine and Russia presents significant challenges for strategic decision-making. In the face of Russia's military superiority, Ukraine has turned to artificial intelligence (AI) to gain a competitive edge. One of the most significant developments in this regard is the Centre of Operations for Threats Assessment (COTA), a strategically minded model built and run by the National Security and Defence Council (nsdc) of Ukraine, according to [an article](https://www.economist.com/science-and-technology/2024/04/08/how-ukraine-is-using-ai-to-fight-russia) on The Economist.

@@ -4,7 +4,7 @@ toc: true
 title: "How Will Arize Debug LLM's Hallucination?"
 date: 2024-04-12 03:00:00 +0200
 categories: blog
-podcast: ""
+podcast: "https://open.spotify.com/embed/episode/0vovKh6vL1wDWFJcfDIKSz"
 ---
 
 Artificial Intelligence (AI) has become a cornerstone of business innovation, enabling organizations to optimize operations, enhance customer experiences and gain a competitive edge. However, the expanding use of Large Language Models (LLMs), comes with its own set of complexities, particularly when it comes to maintaining accurate and reliable performance. In this article, we explore how Arize's new product addresses the challenge of identifying when prompt data causes LLMs to deviate or produce inaccurate output.

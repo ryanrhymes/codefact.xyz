@@ -4,7 +4,7 @@ toc: true
 title: "Energy Quagmire of Generative AI: Impact and Solutions"
 date: 2024-04-12 03:00:00 +0200
 categories: blog
-podcast: ""
+podcast: "https://open.spotify.com/embed/episode/52Sxwx10xM0lol7lrHK7ig"
 ---
 
 As Generative Artificial Intelligence (GenAI) continues to make waves in industries, from health care to entertainment, the energy demands that come with this transformative technology are placing new burdens on an already strained global energy system. In this article, we delve into the implications of GenAI on energy demand and examine the current energy consumption levels of AI server racks, providing context for understanding these challenges and the potential solutions necessary for ensuring a sustainable energy future.

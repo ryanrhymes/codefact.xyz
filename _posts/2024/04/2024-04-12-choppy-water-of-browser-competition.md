@@ -4,6 +4,7 @@ toc: true
 title: "Choppy Waters of Browser Competition Under EU's DMA"
 date: 2024-04-12 03:00:00 +0200
 categories: blog
+podcast: "https://open.spotify.com/embed/episode/6K01Nul9xq3N4ZC9sv2a4J"
 ---
 
 The European Union's Digital Markets Act (DMA) shook up the mobile browser landscape earlier this year with the introduction of mandatory browser choice screens on iOS and Android devices. While the intention was to foster competition in the market, smaller browser makers have expressed apprehension about the current design and implementation of these choice screens, highlighting its potential impact on their user acquisition efforts and overall competitive position. In this piece, we delve into the concerns of underdog browsers and the implications for the competition landscape in the post-DMA era.
