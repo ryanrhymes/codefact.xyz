@@ -9,7 +9,7 @@ podcast: "https://open.spotify.com/embed/episode/1g8iqHJBRYSI3pF4VOBm9k"
 
 As the world eagerly embraces the potential of artificial intelligence, it's crucial not to forget the human laborers behind these advanced technologies. In this article, I will argue that ensuring fair compensation and recognition for these individuals is essential for creating a thriving, sustainable, and equitable digital economy.
 
-![Image](https://noemamag.imgix.net/2022/12/DAIR-scaled.jpg?fit=crop&fm=pjpg&h=512&ixlib=php-3.3.1&rect=0%2C1393%2C2048%2C1024&w=1024&wpsize=noema-social-twitter&s=5d502a926e807733e3b755ca562abcdd "getty")
+![Image](https://miro.medium.com/v2/resize:fit:1400/0*L6teUSK6ZkM5Cj0Q "getty")
 
 The rapid advancement of AI has revolutionized industries, automated jobs, and transformed our daily lives. While the benefits of AI have captured our imaginations, the laborers who contribute to its growth - content creators, annotators, and more - are frequently overlooked and undercompensated.
 
