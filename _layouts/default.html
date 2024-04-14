@@ -13,13 +13,6 @@
   <!-- Self host font -->
   <!-- <link rel="preload" href="{{ '/assets/fonts/playfair-display.woff2' | relative_url }}" as="font" type="font/woff2" crossorigin> -->
   <link href="{{ '/assets/css/style.css' | relative_url }}" rel="stylesheet">
-  
-  {% if page.description %}<meta name="description" content="{{ page.description }}" />{% endif %}
-  {% if page.meta_title %}<meta property="og:title" content="{{ page.meta_title }}"/>{% else %}<meta property="og:title" content="{{ page.title }}"/>{% endif %}
-  <meta property="og:type" content="website"/>
-  <meta property="og:url" content="{{ url }}"/>
-  {% if page.image %}<meta property="og:image" content="{{ page.image | absolute_url }}"/>{% endif %}
-  {% if page.description %}<meta property="og:description" content="{{ page.description }}"/>{% endif %}
 
   {% assign first_img_url = "" %}
   {% if page.content contains "<img" %}
@@ -27,6 +20,14 @@
     {% assign first_img_tag = img_tags[1] | split: '>' | first %}
     {% assign first_img_url = first_img_tag | split: 'src="' | last | split: '"' | first %}
   {% endif %}
+
+  {% if page.description %}<meta name="description" content="{{ page.description }}" />{% endif %}
+  {% if page.meta_title %}<meta property="og:title" content="{{ page.meta_title }}"/>{% else %}<meta property="og:title" content="{{ page.title }}"/>{% endif %}
+  <meta property="og:type" content="website"/>
+  <meta property="og:url" content="{{ url }}"/>
+  <meta property="og:image" content="{{ first_img_url }}"/>
+  {% if page.description %}<meta property="og:description" content="{{ page.description }}"/>{% endif %}
+
   <meta name="twitter:card" content="summary"/>
   <meta name="twitter:image" content="{{ first_img_url }}">
   {% if site.data.seo.meta_twitter_site %}<meta name="twitter:site" content="{{ site.seo.meta_twitter_site }}"/>{% endif %}
