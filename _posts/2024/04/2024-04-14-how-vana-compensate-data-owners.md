@@ -4,7 +4,7 @@ toc: true
 title: "How Will Vana Plan to Compensate Data Owners?"
 date: 2024-04-14 03:00:00 +0200
 categories: blog
-podcast: ""
+podcast: "https://open.spotify.com/embed/episode/54rTw95EC36mgKOMzZEScw"
 ---
 
 Artificial Intelligence (AI) has become an indispensable force in industries and day-to-day life, but at what cost to individual data privacy and ownership? The relentless pursuit of AI advancements by big tech firms and startups often leaves creators and data owners undercompensated, as their data is used to fuel model training without their consent or control.

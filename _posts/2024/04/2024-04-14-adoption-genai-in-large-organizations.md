@@ -4,7 +4,7 @@ toc: true
 title: "Adoption of Generative AI in Large Organizations"
 date: 2024-04-14 03:00:00 +0200
 categories: blog
-podcast: ""
+podcast: "https://open.spotify.com/embed/episode/5S63a3eXwKyTP3Lzw8oogm"
 ---
 
 In enterprise environments, I have encountered firsthand the numerous challenges large organizations face when implementing advanced technologies, such as generative AI. Although generative AI promises significant advantages, including enhanced productivity, streamlined workflows, and increased efficiency, its integration into large organizations can be a multifaceted endeavor. In this article, I will discuss the challenges of implementing generative AI in large organizations and why some vendors, such as Google, may underestimate these challenges. If you are interested in even more thorough discussion, please read [my book](https://link.springer.com/book/10.1007/978-3-031-55885-6).

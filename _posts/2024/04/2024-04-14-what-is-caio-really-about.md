@@ -4,7 +4,7 @@ toc: true
 title: "What Is Chief Artificial Intelligence Officer About?"
 date: 2024-04-14 03:00:00 +0200
 categories: blog
-podcast: ""
+podcast: "https://open.spotify.com/embed/episode/4OqZBZ813iUv3ND39dtPXJ"
 ---
 
 As a practitioner in the field of artificial intelligence (AI) and business innovation, I have witnessed firsthand the transformative impact of AI on organizations across industries. In this article, I will shed light on a burgeoning role that is becoming increasingly essential for companies looking to harness the full potential of AI: the Chief Artificial Intelligence Officer (CAIO).

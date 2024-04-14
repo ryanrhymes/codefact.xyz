@@ -4,7 +4,7 @@ toc: true
 title: "Is 'First AI Software Engineer' A Lie?"
 date: 2024-04-14 03:00:00 +0200
 categories: blog
-podcast: ""
+podcast: "https://open.spotify.com/embed/episode/19tIUYPimSoS4Bc0pXBdbu"
 ---
 
 I am always intrigued by the latest advancements and applications in the AI field. The recent unveiling of Cognition's claimed world-first AI software engineer, Devin, provoked both fascination and skepticism in equal measure. The AI agent, marketed as having passed practical engineering interviews with leading AI companies and completed real jobs on Upwork, has raised legitimate questions about its authentic capabilities as a software engineer.
