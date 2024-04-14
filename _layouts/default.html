@@ -20,7 +20,15 @@
   <meta property="og:url" content="{{ url }}"/>
   {% if page.image %}<meta property="og:image" content="{{ page.image | absolute_url }}"/>{% endif %}
   {% if page.description %}<meta property="og:description" content="{{ page.description }}"/>{% endif %}
+
+  {% assign first_img_url = "" %}
+  {% if page.content contains "<img" %}
+    {% assign img_tags = page.content | split: '<img ' %}
+    {% assign first_img_tag = img_tags[1] | split: '>' | first %}
+    {% assign first_img_url = first_img_tag | split: 'src="' | last | split: '"' | first %}
+  {% endif %}
   <meta name="twitter:card" content="summary"/>
+  <meta name="twitter:image" content="{{ first_img_url }}">
   {% if site.data.seo.meta_twitter_site %}<meta name="twitter:site" content="{{ site.seo.meta_twitter_site }}"/>{% endif %}
   {% if site.data.seo.meta_twitter_creator %}<meta name="twitter:creator" content="{{ site.seo.meta_twitter_creator }}"/>{% endif %}
 
