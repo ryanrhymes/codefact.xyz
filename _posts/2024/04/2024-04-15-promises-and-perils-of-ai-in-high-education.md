@@ -4,7 +4,7 @@ toc: true
 title: "The Promise and Perils of AI in Higher Education"
 date: 2024-04-15 03:00:00 +0200
 categories: blog
-podcast: ""
+podcast: "https://open.spotify.com/embed/episode/3TwbB7SOTV51ruNdxa5uqc"
 ---
 
 Artificial Intelligence (AI) is making waves in higher education, offering benefits such as personalized learning, increased efficiency, and superior student support. However, the technology's implementation is not without risks and challenges. In this article, I would like to explore potential downsides and propose strategies for ethical and transparent AI integration.

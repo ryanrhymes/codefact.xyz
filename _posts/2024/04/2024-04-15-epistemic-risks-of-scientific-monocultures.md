@@ -4,7 +4,7 @@ toc: true
 title: "The Epistemic Risks of Scientific Monocultures"
 date: 2024-04-15 03:00:00 +0200
 categories: blog
-podcast: ""
+podcast: "https://open.spotify.com/embed/episode/6JjBubF1aTuuTg0Fd2HA3y"
 ---
 
 The arrival of artificial intelligence (AI) in research has sparked a flurry of excitement within the scientific community. AI's capacity to process vast amounts of data and analyze patterns at record speed promises a revolution in scientific discovery. However, it is vital to understand the potential risks that come with this technological advance. In this essay, I will explore the epistemic risks of scientific monocultures that may emerge from an over-reliance on AI tools, based [an article](https://www.nature.com/articles/s41586-024-07146-0) recently published on Nature.

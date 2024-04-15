@@ -4,7 +4,7 @@ toc: true
 title: "Chatbots in Examinations: Cheating or Aid?"
 date: 2024-04-15 03:00:00 +0200
 categories: blog
-podcast: ""
+podcast: "https://open.spotify.com/embed/episode/5525yLHceFvNooCOPHJpav"
 ---
 
 As a student and learner in today's technological age, I've come to appreciate the invaluable support that artificial intelligence (AI) tools like chatbots provide in my education. They aid in improving academic writing, language skills, and overall efficiency, making learning a more enjoyable and accessible experience. However, the topic of using these chatbots during examinations has ignited a contentious debate on academic integrity and fairness – is it cheating or a legitimate aid?
