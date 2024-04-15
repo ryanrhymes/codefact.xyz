@@ -4,7 +4,7 @@ toc: true
 title: "Artificial Intelligence Cheating in Education"
 date: 2024-04-15 03:00:00 +0200
 categories: blog
-podcast: ""
+podcast: "https://open.spotify.com/embed/episode/4Y1cbn3OuQ2yhzkdrTyq2l"
 ---
 
 The essence of higher education has long been a source of intrigue for me. The core objective, as I believe, is to nurture students' capabilities to learn how to learn. By fostering critical thinking, understanding evidence, and independent problem-solving, we empower individuals to contribute meaningfully to society. However, the rapid advancement of artificial intelligence (AI) in education poses a threat to this vision.
