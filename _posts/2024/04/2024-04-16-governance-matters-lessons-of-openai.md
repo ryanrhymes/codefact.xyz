@@ -4,7 +4,7 @@ toc: true
 title: "Governance Matters: Some Thoughts on the OpenAI Drama"
 date: 2024-04-16 03:00:00 +0200
 categories: blog
-podcast: ""
+podcast: "https://open.spotify.com/embed/episode/2izyjJu32lH2zoc7WcsHi1"
 ---
 
 For years, I've witnessed the increasing popularity of mission-driven corporations, which seek to create positive social impact while generating profits. The allure of these organizations is undeniable - they attract top talent, passionate investors, and partnerships by appealing to the desire to contribute to a noble cause. However, achieving a successful balance between a company's social mission and financial objectives calls for thoughtful corporate governance design.

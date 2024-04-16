@@ -4,7 +4,7 @@ toc: true
 title: "What Risks Should AI Governance Aim To Mitigate?"
 date: 2024-04-16 03:00:00 +0200
 categories: blog
-podcast: ""
+podcast: "https://open.spotify.com/embed/episode/1JYZssWbbeiBu2qRrkqG21"
 ---
 
 Artificial Intelligence (AI) holds immense promise for improving our lives and driving innovation across various industries. However, as we continue to develop and deploy advanced AI systems, it is crucial to acknowledge and address the potential risks that come with this technology. In this article, I will explore the specific risks that AI governance aims to mitigate and the importance of effective AI governance in promoting the responsible development and deployment of AI.

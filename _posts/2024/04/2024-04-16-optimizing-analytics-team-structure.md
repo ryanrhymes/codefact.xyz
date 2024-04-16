@@ -4,7 +4,7 @@ toc: true
 title: "Centralized, Distributed, and Hybrid Analytics Teams"
 date: 2024-04-16 03:00:00 +0200
 categories: blog
-podcast: ""
+podcast: "https://open.spotify.com/embed/episode/4XnmFNxXX2KRTuMOO9Cz7w"
 ---
 
 The role of data and analytics teams has evolved significantly from mere number crunchers to strategic business partners. Structuring a data and analytics team to meet the organization's needs is a crucial decision that can significantly impact an organization's ability to extract value from its data. This article will discuss the pros and cons of three popular approaches to data and analytics team structures: centralized, distributed, and hybrid.

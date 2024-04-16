@@ -4,7 +4,7 @@ toc: true
 title: "Overcoming Organizational Challenges to Implementing AI"
 date: 2024-04-16 03:00:00 +0200
 categories: blog
-podcast: ""
+podcast: "https://open.spotify.com/embed/episode/1jQwzH2030skzewCgB3Fvi"
 ---
 
 Artificial intelligence promises to revolutionize businesses. However, despite its potential benefits, many organizations are struggling to fully capitalize on AI. In this article, we discuss the reasons behind this slow progress and propose solutions for leaders to overcome organizational challenges and effectively implement AI.
