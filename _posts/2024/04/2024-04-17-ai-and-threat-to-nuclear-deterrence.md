@@ -2,7 +2,7 @@
 layout: post
 toc: true
 title: "Artificial Intelligence and the Threat to Nuclear Deterrence"
-date: 2024-04-16 03:00:00 +0200
+date: 2024-04-17 03:00:00 +0200
 categories: blog
 podcast: ""
 ---
