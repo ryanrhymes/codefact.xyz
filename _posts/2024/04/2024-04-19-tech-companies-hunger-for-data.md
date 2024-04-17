@@ -2,7 +2,7 @@
 layout: post
 toc: true
 title: "Tech Companies' Desperate Pursuit for Data"
-date: 2024-04-18 03:00:00 +0200
+date: 2024-04-19 03:00:00 +0200
 categories: blog
 podcast: ""
 ---
