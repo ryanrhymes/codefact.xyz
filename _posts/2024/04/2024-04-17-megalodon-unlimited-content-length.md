@@ -1,13 +1,13 @@
 ---
 layout: post
 toc: true
-title: "MEGALODON: Transforming Sequence Modeling with Unlimited Context Length"
+title: "Meta's New LLM MEGALODON Has Unlimited Context Length"
 date: 2024-04-17 03:00:00 +0200
 categories: blog
 podcast: ""
 ---
 
-As our digital economy's reliance on long sequences grows, so too does the need for efficient, contextually unbounded neural architectures. Meta introduces [MEGALODON](https://arxiv.org/pdf/2404.08801.pdf), an innovative solution to the challenges Transformers and Llama 2 face in handling such extended sequences, with quadratic computational complexity and limited inductive bias for length generalization being major concerns. MEGALODON holds great promise in revolutionizing sequence modeling.
+As our digital economy's reliance on long sequences grows, so too does the need for efficient, contextually unbounded neural architectures. Meta introduces MEGALODON ([paper](https://arxiv.org/pdf/2404.08801.pdf) and [code](https://github.com/XuezheMax/megalodon)), an innovative solution to the challenges Transformers and Llama 2 face in handling such extended sequences, with quadratic computational complexity and limited inductive bias for length generalization being major concerns. MEGALODON holds great promise in revolutionizing sequence modeling.
 
 ![Image](https://30a.com/wp-content/uploads/2018/04/tmp668642736189997056.jpg "getty")
 
