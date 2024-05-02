@@ -9,7 +9,7 @@ podcast: ""
 
 As a founder seeking venture capital funding, navigating the complexities of the investment landscape can be a daunting task. At the heart of the venture capital model lies the power law of returns, a principle that every founder must grasp to increase their chances of securing investment. According to this rule, a small number of highly successful investments generate the majority of a VC firm's returns, offsetting the losses from failures.
 
-![Image](https://www.thebusinessrankers.com/wp-content/uploads/2020/10/startup.jpeg "getty")
+![Image](https://media.licdn.com/dms/image/D5612AQG9Va399AbobA/article-cover_image-shrink_720_1280/0/1700786302222?e=2147483647&v=beta&t=btVFru871bbIWxGoCc6UgGitRvzjxZwJOs939TCaYwA "getty")
 
 The implications of this power law for founders are significant. To attract the interest of investors, one must demonstrate outsized potential, painting a picture of a future where their startup has taken an outsized share of a large and growing market. The business model must be scalable and have the ability to grow rapidly, ultimately returning 100x or 1,000x the initial investment.
 
