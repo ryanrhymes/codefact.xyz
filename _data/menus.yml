@@ -19,8 +19,6 @@ main:
     weight: 6
 
 footer:
-  - name: "Ads"
-    url: "https://chikraighotoops.com/4/8492958"
   - name: "Privacy Policy"
     url: "/privacy/"
     weight: 1
