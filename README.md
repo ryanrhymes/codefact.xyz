@@ -17,6 +17,16 @@ bundle install
 bundle exec jekyll serve
 ```
 
+## Releases
+
+Releases are git tags in the form `vMAJOR.MINOR.PATCH`. Commit your changes first; each command refuses to run with uncommitted changes, then creates the next tag and pushes it.
+
+```bash
+make release        # v1.2.3 -> v1.2.4
+make release-minor  # v1.2.3 -> v1.3.0
+make release-major  # v1.2.3 -> v2.0.0
+```
+
 ## Deployment
 
 The website is hosted on GitHub Pages. Every push to `main` builds and deploys the site through the GitHub Actions workflow in `.github/workflows/pages.yml`. The custom domain `codefact.xyz` is set in the repository's Settings → Pages, and its DNS records are managed at Namecheap.
