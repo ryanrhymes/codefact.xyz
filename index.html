@@ -33,20 +33,18 @@ dark_header: true
   </div>
 </section>
 
-<section class="section section-muted" id="books">
+<section class="section section-muted publications" id="books">
   <div class="container split">
     <div>
       <p class="eyebrow">Publications</p>
       <h2 class="section-title">Our thinking, in print.</h2>
       <p class="muted">On AI, data, computing and autonomous systems.</p>
     </div>
-    <ul class="books">
+    <ul class="covers">
       {% for book in site.data.books %}
       <li>
-        <a href="{{ book.link }}" target="_blank" rel="noopener">
-          <span class="book-meta">{{ book.publisher }}</span>
-          <span class="book-title">{{ book.title }}</span>
-          <span class="arrow" aria-hidden="true">→</span>
+        <a href="{{ book.link }}" target="_blank" rel="noopener" title="{{ book.title }} ({{ book.publisher }})">
+          <img src="{{ book.cover | relative_url }}" alt="{{ book.title }}, {{ book.publisher }}" width="110" height="165" loading="lazy">
         </a>
       </li>
       {% endfor %}

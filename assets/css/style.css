@@ -102,23 +102,34 @@ h1, h2, h3 { margin: 0; line-height: 1.15; letter-spacing: -0.02em; }
 .steps h3 { margin: 14px 0 10px; font-size: 1.4rem; font-weight: 600; }
 .steps p { margin: 0; max-width: 22em; color: var(--muted); }
 
-/* Books */
-.split { display: grid; grid-template-columns: 5fr 7fr; gap: 64px; align-items: start; }
+/* Publications */
+.publications { padding: 96px 0; }
+.split { display: grid; grid-template-columns: 5fr 7fr; gap: 64px; align-items: center; }
 .split .muted { margin: 20px 0 0; max-width: 26em; }
-.books { list-style: none; margin: 0; padding: 0; border-top: 1px solid var(--line); }
-.books li { border-bottom: 1px solid var(--line); }
-.books a {
-  display: grid;
-  grid-template-columns: 120px 1fr auto;
-  gap: 16px;
-  align-items: center;
-  padding: 22px 4px;
+.covers {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: flex-end;
+  gap: 24px;
 }
-.book-meta { font-size: 0.85rem; color: var(--muted); }
-.book-title { font-weight: 600; }
-.arrow { color: var(--muted); transition: transform 0.15s, color 0.15s; }
-.books a:hover .book-title, .books a:hover .arrow { color: var(--accent); }
-.books a:hover .arrow { transform: translateX(4px); }
+.covers li { flex: 0 1 110px; }
+.covers a { display: block; }
+.covers img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 2 / 3;
+  object-fit: cover;
+  border-radius: 3px;
+  box-shadow: 0 1px 2px rgba(16, 18, 27, 0.12), 0 8px 20px rgba(16, 18, 27, 0.08);
+  filter: grayscale(1);
+  opacity: 0.85;
+  transition: filter 0.25s, opacity 0.25s, transform 0.25s;
+}
+.covers a:hover img, .covers a:focus-visible img { filter: none; opacity: 1; transform: translateY(-4px); }
+
 /* Call to action */
 .cta {
   padding: 110px 0;
@@ -154,13 +165,14 @@ h1, h2, h3 { margin: 0; line-height: 1.15; letter-spacing: -0.02em; }
   .steps { grid-template-columns: 1fr; border-top: 0; }
   .steps li { padding: 28px 0 36px; border-top: 1px solid var(--line); }
   .split { grid-template-columns: 1fr; gap: 40px; }
+  .covers { justify-content: flex-start; }
 }
 
 @media (max-width: 640px) {
   .hero { padding: 150px 0 96px; }
   .section { padding: 80px 0; }
   .steps { margin-top: 40px; }
-  .books a { grid-template-columns: 1fr auto; gap: 4px 16px; }
-  .book-meta { grid-column: 1 / -1; }
+  .publications { padding: 72px 0; }
+  .covers { gap: 12px; }
   .cta { padding: 80px 0; }
 }

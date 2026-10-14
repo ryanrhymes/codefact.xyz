@@ -1,15 +1,19 @@
 - title: "Autonomous Driving: Technology, Business, and Regulation"
   publisher: "Wiley"
+  cover: "/images/books/autonomous-driving.jpg"
   link: "https://www.wiley.com/en-us/Autonomous+Driving%3A+Technology%2C+Business%2C+and+Regulation-p-9781394340798"
 
 - title: "Strategic Blueprint for Enterprise Analytics"
   publisher: "Springer"
+  cover: "/images/books/strategic-blueprint.jpg"
   link: "https://link.springer.com/book/9783031558849"
 
 - title: "OCaml Scientific Computing"
   publisher: "Springer"
+  cover: "/images/books/ocaml-scientific-computing.jpg"
   link: "https://link.springer.com/book/10.1007/978-3-030-97645-3"
 
 - title: "Architecture of Advanced Numerical Analysis Systems"
   publisher: "Springer"
+  cover: "/images/books/numerical-analysis-systems.jpg"
   link: "https://link.springer.com/book/10.1007/978-1-4842-8853-5"
