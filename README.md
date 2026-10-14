@@ -31,13 +31,4 @@ make serve
 
 ## Deployment
 
-The website is deployed using Render serice, please check [Render Dashboard](https://dashboard.render.com/).
-
-
-## Sync Webiste Content
-
-Run the following command to continuous re-trigger website building and deployment.
-
-```bash
-./bin/sync_website.sh
-```
+The website is hosted on GitHub Pages. Every push to `main` builds and deploys the site through the GitHub Actions workflow in `.github/workflows/pages.yml`. The custom domain `codefact.xyz` is set in the repository's Settings → Pages, and its DNS records are managed at Namecheap.
