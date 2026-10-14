@@ -1,73 +1,16 @@
-baseurl: '/'
+title: "Codefact"
+description: "Codefact is a specialist practice for hard problems in AI, data and scientific computing."
+url: "https://codefact.xyz"
 permalink: pretty
-title: '© Codefact Oy'
-description: "Codefact is a data analytics consulting company."
 
-logo:
-  mobile: "images/logo/logo-mobile.svg"
-  mobile_height: "32px"
-  mobile_width: "32px"
-  desktop: "images/logo/logo.svg"
-  desktop_height: "32px"
-  desktop_width: "140px"
-
-home: 
-  limit_services: 9
-
-collections:
-  services:
-    output: true
-    sort_by: weight
-  newsletter:
-    output: true
-    sort_by: weight
-  team:
-    output: true
-
-defaults:
-  - scope:
-      path: ""
-      type: "services"
-    values:
-      layout: "service"
-  - scope:
-      path: ""
-      type: "team"
-    values:
-      layout: "team"
-
-sass:
-  style: compressed # possible values: nested expanded compact compressed
+contact_email: "info@codefact.xyz"
 
 plugins:
-  - jekyll-environment-variables
   - jekyll-sitemap
-  - jekyll-paginate-v2
-
-pagination:
-  enabled: true
-  per_page: 20
-  permalink: '/page/:num/'
-  title: ':title - page :num'
-  limit: 0 # limits the total number of pages, 0 is unlimited
-  sort_field: 'date'
-  sort_reverse: true
 
 exclude:
   - Gemfile
   - Gemfile.lock
-  - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
-  - LICENSE.md
-  - LICENSE
+  - Makefile
   - README.md
-  - bin/
-
-feed_items: 50
-feed_update_period: daily
-feed_update_frequency: 1
-
-last_updated: "2024-08-18 14:26:39"
+  - vendor/

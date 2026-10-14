@@ -1,8 +1,7 @@
 ---
 title: Privacy Policy
 layout: page
-description: Privacy
-bodyClass: page-basic
+description: How Codefact Oy collects, uses and protects information.
 permalink: "/privacy/"
 ---
 

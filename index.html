@@ -1,0 +1,69 @@
+---
+layout: default
+dark_header: true
+---
+<section class="hero">
+  <div class="container">
+    <p class="eyebrow">AI · Data · Scientific computing</p>
+    <h1>AI and data systems, engineered&nbsp;properly.</h1>
+    <p class="lead">Codefact is a specialist practice for hard problems in AI, data and scientific computing. From first architecture to systems running in production.</p>
+    <div class="actions">
+      <a class="button" href="mailto:{{ site.contact_email }}">Start a conversation</a>
+      <a class="button button-ghost" href="#services">What we do</a>
+    </div>
+  </div>
+</section>
+
+<section class="section" id="services">
+  <div class="container">
+    <p class="eyebrow">What we do</p>
+    <h2 class="section-title">From strategy to production</h2>
+    <div class="cards">
+      <article class="card">
+        <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v3M12 18v3M3 12h3M18 12h3M5.6 5.6l2.1 2.1M16.3 16.3l2.1 2.1M5.6 18.4l2.1-2.1M16.3 7.7l2.1-2.1"/><circle cx="12" cy="12" r="3"/></svg>
+        <h3>Strategy &amp; architecture</h3>
+        <p>Where AI is worth it, and how to build it so it lasts.</p>
+      </article>
+      <article class="card">
+        <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><rect x="4" y="4" width="16" height="16" rx="3"/><path d="M9 9h6v6H9zM9 2v2M15 2v2M9 20v2M15 20v2M2 9h2M2 15h2M20 9h2M20 15h2"/></svg>
+        <h3>Machine learning</h3>
+        <p>Models, LLM systems and learning at the edge. Built to run, not to demo.</p>
+      </article>
+      <article class="card">
+        <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><ellipse cx="12" cy="5.5" rx="7" ry="2.5"/><path d="M5 5.5v6c0 1.4 3.1 2.5 7 2.5s7-1.1 7-2.5v-6M5 11.5v6c0 1.4 3.1 2.5 7 2.5s7-1.1 7-2.5v-6"/></svg>
+        <h3>Data &amp; computing</h3>
+        <p>Data platforms and numerical software for workloads that do not forgive shortcuts.</p>
+      </article>
+    </div>
+  </div>
+</section>
+
+<section class="section section-muted" id="books">
+  <div class="container split">
+    <div>
+      <p class="eyebrow">Publications</p>
+      <h2 class="section-title">Our thinking, in print.</h2>
+      <p class="muted">On AI, data, computing and autonomous systems, with Wiley, Springer and Apress.</p>
+    </div>
+    <ul class="books">
+      {% for book in site.data.books %}
+      <li>
+        <a href="{{ book.link }}" target="_blank" rel="noopener">
+          <span class="book-meta">{{ book.publisher }}{% if book.badge %} <span class="badge">{{ book.badge }}</span>{% endif %}</span>
+          <span class="book-title">{{ book.title }}</span>
+          <span class="arrow" aria-hidden="true">→</span>
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>
+
+<section class="cta">
+  <div class="container">
+    <h2>Working on something difficult?</h2>
+    <p>Let's talk.</p>
+    <a class="button" href="mailto:{{ site.contact_email }}">Start a conversation</a>
+    <p class="cta-email"><a href="mailto:{{ site.contact_email }}">{{ site.contact_email }}</a></p>
+  </div>
+</section>

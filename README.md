@@ -1,33 +1,21 @@
 # codefact.xyz
-codefact.xyz website source code
 
+Source code of the Codefact Oy website, built with [Jekyll](https://jekyllrb.com/).
 
-### Development
+## Structure
 
-To run the theme locally, navigate to the theme directory and run:
+- `index.html` – the home page.
+- `privacy.md` – the privacy policy.
+- `_data/books.yml` – the books shown on the home page.
+- `_layouts/` – page templates.
+- `assets/css/style.css` – the stylesheet.
+
+## Development
 
 ```bash
 bundle install
+bundle exec jekyll serve
 ```
-
-To start the Jekyll local development server.
-
-```bash
-bundle exec jekyll serve --future
-```
-
-To build the theme.
-
-```bash
-bundle exec jekyll build
-```
-
-or simply run the following command.
-
-```bash
-make serve
-```
-
 
 ## Deployment
 
