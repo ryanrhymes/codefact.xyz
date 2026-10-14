@@ -17,16 +17,11 @@
 </head>
 <body>
   <header class="site-header{% if page.dark_header %} site-header-dark{% endif %}">
-    <div class="container nav">
+    <div class="container">
       {% if page.dark_header %}{% assign logo = '/images/logo/logo-white.svg' %}{% else %}{% assign logo = '/images/logo/logo.svg' %}{% endif %}
       <a href="{{ '/' | relative_url }}" class="brand">
         <img src="{{ logo | relative_url }}" alt="{{ site.title }}" width="140" height="24">
       </a>
-      <nav>
-        <a href="{{ '/#services' | relative_url }}">Services</a>
-        <a href="{{ '/#books' | relative_url }}">Publications</a>
-        <a class="button button-small" href="mailto:{{ site.contact_email }}">Get in touch</a>
-      </nav>
     </div>
   </header>
 
@@ -37,10 +32,7 @@
   <footer class="site-footer">
     <div class="container footer-inner">
       <span>© {{ site.time | date: '%Y' }} Codefact Oy</span>
-      <span>
-        <a href="mailto:{{ site.contact_email }}">{{ site.contact_email }}</a>
-        <a href="{{ '/privacy/' | relative_url }}">Privacy Policy</a>
-      </span>
+      <a href="{{ '/privacy/' | relative_url }}">Privacy Policy</a>
     </div>
   </footer>
 

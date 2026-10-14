@@ -4,13 +4,8 @@ dark_header: true
 ---
 <section class="hero">
   <div class="container">
-    <p class="eyebrow">AI · Data · Scientific computing</p>
     <h1>AI and data systems, engineered&nbsp;properly.</h1>
     <p class="lead">Codefact is a specialist practice for hard problems in AI, data and scientific computing. From first architecture to systems running in production.</p>
-    <div class="actions">
-      <a class="button" href="mailto:{{ site.contact_email }}">Start a conversation</a>
-      <a class="button button-ghost" href="#services">What we do</a>
-    </div>
   </div>
 </section>
 
@@ -43,13 +38,13 @@ dark_header: true
     <div>
       <p class="eyebrow">Publications</p>
       <h2 class="section-title">Our thinking, in print.</h2>
-      <p class="muted">On AI, data, computing and autonomous systems, with Wiley, Springer and Apress.</p>
+      <p class="muted">On AI, data, computing and autonomous systems.</p>
     </div>
     <ul class="books">
       {% for book in site.data.books %}
       <li>
         <a href="{{ book.link }}" target="_blank" rel="noopener">
-          <span class="book-meta">{{ book.publisher }}{% if book.badge %} <span class="badge">{{ book.badge }}</span>{% endif %}</span>
+          <span class="book-meta">{{ book.publisher }}</span>
           <span class="book-title">{{ book.title }}</span>
           <span class="arrow" aria-hidden="true">→</span>
         </a>
@@ -62,8 +57,6 @@ dark_header: true
 <section class="cta">
   <div class="container">
     <h2>Working on something difficult?</h2>
-    <p>Let's talk.</p>
-    <a class="button" href="mailto:{{ site.contact_email }}">Start a conversation</a>
-    <p class="cta-email"><a href="mailto:{{ site.contact_email }}">{{ site.contact_email }}</a></p>
+    <a class="email-link" href="mailto:{{ site.contact_email }}">{{ site.contact_email }}</a>
   </div>
 </section>
